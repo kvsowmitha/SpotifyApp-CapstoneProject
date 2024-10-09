@@ -1,0 +1,70 @@
+[
+  {
+    "ContainingType": "FavoriteMusicService.Controllers.MusicController",
+    "Method": "GetAllMusic",
+    "RelativePath": "api/Music/all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FavoriteMusicService.Controllers.MusicController",
+    "Method": "GetUserFavorites",
+    "RelativePath": "api/Music/favorites/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FavoriteMusicService.Controllers.MusicController",
+    "Method": "AddToFavorites",
+    "RelativePath": "api/Music/favorites/add/{userId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "music",
+        "Type": "FavoriteMusicService.Models.Music",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FavoriteMusicService.Controllers.MusicController",
+    "Method": "RemoveFromFavorites",
+    "RelativePath": "api/Music/favorites/remove/{userId}/{musicId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "musicId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

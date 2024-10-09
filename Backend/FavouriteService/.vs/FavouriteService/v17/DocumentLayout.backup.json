@@ -1,0 +1,209 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\1CGI24Training\\Project\\FinalProject\\Backend\\FavouriteService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FDD7558-DC73-4E83-B6BC-1E75191A5059}|FavoriteMusicService\\FavoriteMusicService.csproj|e:\\1cgi24training\\project\\finalproject\\backend\\favouriteservice\\favoritemusicservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2FDD7558-DC73-4E83-B6BC-1E75191A5059}|FavoriteMusicService\\FavoriteMusicService.csproj|solutionrelative:favoritemusicservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FDD7558-DC73-4E83-B6BC-1E75191A5059}|FavoriteMusicService\\FavoriteMusicService.csproj|e:\\1cgi24training\\project\\finalproject\\backend\\favouriteservice\\favoritemusicservice\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FDD7558-DC73-4E83-B6BC-1E75191A5059}|FavoriteMusicService\\FavoriteMusicService.csproj|solutionrelative:favoritemusicservice\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FDD7558-DC73-4E83-B6BC-1E75191A5059}|FavoriteMusicService\\FavoriteMusicService.csproj|e:\\1cgi24training\\project\\finalproject\\backend\\favouriteservice\\favoritemusicservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FDD7558-DC73-4E83-B6BC-1E75191A5059}|FavoriteMusicService\\FavoriteMusicService.csproj|solutionrelative:favoritemusicservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FDD7558-DC73-4E83-B6BC-1E75191A5059}|FavoriteMusicService\\FavoriteMusicService.csproj|e:\\1cgi24training\\project\\finalproject\\backend\\favouriteservice\\favoritemusicservice\\services\\musicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FDD7558-DC73-4E83-B6BC-1E75191A5059}|FavoriteMusicService\\FavoriteMusicService.csproj|solutionrelative:favoritemusicservice\\services\\musicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FDD7558-DC73-4E83-B6BC-1E75191A5059}|FavoriteMusicService\\FavoriteMusicService.csproj|e:\\1cgi24training\\project\\finalproject\\backend\\favouriteservice\\favoritemusicservice\\controllers\\musiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FDD7558-DC73-4E83-B6BC-1E75191A5059}|FavoriteMusicService\\FavoriteMusicService.csproj|solutionrelative:favoritemusicservice\\controllers\\musiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FDD7558-DC73-4E83-B6BC-1E75191A5059}|FavoriteMusicService\\FavoriteMusicService.csproj|e:\\1cgi24training\\project\\finalproject\\backend\\favouriteservice\\favoritemusicservice\\exceptions\\usernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FDD7558-DC73-4E83-B6BC-1E75191A5059}|FavoriteMusicService\\FavoriteMusicService.csproj|solutionrelative:favoritemusicservice\\exceptions\\usernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FDD7558-DC73-4E83-B6BC-1E75191A5059}|FavoriteMusicService\\FavoriteMusicService.csproj|e:\\1cgi24training\\project\\finalproject\\backend\\favouriteservice\\favoritemusicservice\\exceptions\\musicnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FDD7558-DC73-4E83-B6BC-1E75191A5059}|FavoriteMusicService\\FavoriteMusicService.csproj|solutionrelative:favoritemusicservice\\exceptions\\musicnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FDD7558-DC73-4E83-B6BC-1E75191A5059}|FavoriteMusicService\\FavoriteMusicService.csproj|e:\\1cgi24training\\project\\finalproject\\backend\\favouriteservice\\favoritemusicservice\\models\\userfavorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FDD7558-DC73-4E83-B6BC-1E75191A5059}|FavoriteMusicService\\FavoriteMusicService.csproj|solutionrelative:favoritemusicservice\\models\\userfavorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FDD7558-DC73-4E83-B6BC-1E75191A5059}|FavoriteMusicService\\FavoriteMusicService.csproj|e:\\1cgi24training\\project\\finalproject\\backend\\favouriteservice\\favoritemusicservice\\models\\music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FDD7558-DC73-4E83-B6BC-1E75191A5059}|FavoriteMusicService\\FavoriteMusicService.csproj|solutionrelative:favoritemusicservice\\models\\music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FDD7558-DC73-4E83-B6BC-1E75191A5059}|FavoriteMusicService\\FavoriteMusicService.csproj|e:\\1cgi24training\\project\\finalproject\\backend\\favouriteservice\\favoritemusicservice\\dbcontext\\musicmongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FDD7558-DC73-4E83-B6BC-1E75191A5059}|FavoriteMusicService\\FavoriteMusicService.csproj|solutionrelative:favoritemusicservice\\dbcontext\\musicmongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FDD7558-DC73-4E83-B6BC-1E75191A5059}|FavoriteMusicService\\FavoriteMusicService.csproj|e:\\1cgi24training\\project\\finalproject\\backend\\favouriteservice\\favoritemusicservice\\services\\imusicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FDD7558-DC73-4E83-B6BC-1E75191A5059}|FavoriteMusicService\\FavoriteMusicService.csproj|solutionrelative:favoritemusicservice\\services\\imusicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MusicMongoDbContext.cs",
+              "DocumentMoniker": "E:\\1CGI24Training\\Project\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\DbContext\\MusicMongoDbContext.cs",
+              "RelativeDocumentMoniker": "FavoriteMusicService\\DbContext\\MusicMongoDbContext.cs",
+              "ToolTip": "E:\\1CGI24Training\\Project\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\DbContext\\MusicMongoDbContext.cs",
+              "RelativeToolTip": "FavoriteMusicService\\DbContext\\MusicMongoDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T06:50:40.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IMusicService.cs",
+              "DocumentMoniker": "E:\\1CGI24Training\\Project\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\Services\\IMusicService.cs",
+              "RelativeDocumentMoniker": "FavoriteMusicService\\Services\\IMusicService.cs",
+              "ToolTip": "E:\\1CGI24Training\\Project\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\Services\\IMusicService.cs",
+              "RelativeToolTip": "FavoriteMusicService\\Services\\IMusicService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T06:29:34.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MusicService.cs",
+              "DocumentMoniker": "E:\\1CGI24Training\\Project\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\Services\\MusicService.cs",
+              "RelativeDocumentMoniker": "FavoriteMusicService\\Services\\MusicService.cs",
+              "ToolTip": "E:\\1CGI24Training\\Project\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\Services\\MusicService.cs",
+              "RelativeToolTip": "FavoriteMusicService\\Services\\MusicService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T06:29:15.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MongoDbSettings.cs",
+              "DocumentMoniker": "E:\\1CGI24Training\\Project\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\MongoDbSettings.cs",
+              "RelativeDocumentMoniker": "FavoriteMusicService\\MongoDbSettings.cs",
+              "ToolTip": "E:\\1CGI24Training\\Project\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\MongoDbSettings.cs",
+              "RelativeToolTip": "FavoriteMusicService\\MongoDbSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T06:58:56.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\1CGI24Training\\Project\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\appsettings.json",
+              "RelativeDocumentMoniker": "FavoriteMusicService\\appsettings.json",
+              "ToolTip": "E:\\1CGI24Training\\Project\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\appsettings.json",
+              "RelativeToolTip": "FavoriteMusicService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-02T06:25:46.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\1CGI24Training\\Project\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\Program.cs",
+              "RelativeDocumentMoniker": "FavoriteMusicService\\Program.cs",
+              "ToolTip": "E:\\1CGI24Training\\Project\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\Program.cs",
+              "RelativeToolTip": "FavoriteMusicService\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAADIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T06:37:25.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserNotFoundException.cs",
+              "DocumentMoniker": "E:\\1CGI24Training\\Project\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\Exceptions\\UserNotFoundException.cs",
+              "RelativeDocumentMoniker": "FavoriteMusicService\\Exceptions\\UserNotFoundException.cs",
+              "ToolTip": "E:\\1CGI24Training\\Project\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\Exceptions\\UserNotFoundException.cs",
+              "RelativeToolTip": "FavoriteMusicService\\Exceptions\\UserNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T09:36:38.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MusicNotFoundException.cs",
+              "DocumentMoniker": "E:\\1CGI24Training\\Project\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\Exceptions\\MusicNotFoundException.cs",
+              "RelativeDocumentMoniker": "FavoriteMusicService\\Exceptions\\MusicNotFoundException.cs",
+              "ToolTip": "E:\\1CGI24Training\\Project\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\Exceptions\\MusicNotFoundException.cs",
+              "RelativeToolTip": "FavoriteMusicService\\Exceptions\\MusicNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T09:39:10.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MusicController.cs",
+              "DocumentMoniker": "E:\\1CGI24Training\\Project\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\Controllers\\MusicController.cs",
+              "RelativeDocumentMoniker": "FavoriteMusicService\\Controllers\\MusicController.cs",
+              "ToolTip": "E:\\1CGI24Training\\Project\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\Controllers\\MusicController.cs",
+              "RelativeToolTip": "FavoriteMusicService\\Controllers\\MusicController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAAEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T06:28:36.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserFavorite.cs",
+              "DocumentMoniker": "E:\\1CGI24Training\\Project\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\Models\\UserFavorite.cs",
+              "RelativeDocumentMoniker": "FavoriteMusicService\\Models\\UserFavorite.cs",
+              "ToolTip": "E:\\1CGI24Training\\Project\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\Models\\UserFavorite.cs",
+              "RelativeToolTip": "FavoriteMusicService\\Models\\UserFavorite.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T06:24:28.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Music.cs",
+              "DocumentMoniker": "E:\\1CGI24Training\\Project\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\Models\\Music.cs",
+              "RelativeDocumentMoniker": "FavoriteMusicService\\Models\\Music.cs",
+              "ToolTip": "E:\\1CGI24Training\\Project\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\Models\\Music.cs",
+              "RelativeToolTip": "FavoriteMusicService\\Models\\Music.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T06:24:00.456Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

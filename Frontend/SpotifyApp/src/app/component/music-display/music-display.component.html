@@ -1,0 +1,43 @@
+<div class="music-display">
+  <div class="title">
+    <h4>{{ currentUrlSegment | uppercase }}</h4>
+    <div *ngIf="message" class="message-container" [ngClass]="{ 'success': isSuccess, 'error': !isSuccess }">
+      {{ message }}
+    </div>
+  </div>
+  <div *ngIf="getDataResult && getDataResult.length > 0" class="search-results" id="main-song-div" >
+    <mat-card
+      class="example-card"
+      *ngFor="let item of getDataResult"
+      appearance="outlined"
+    >
+      <img mat-card-image [src]="item.pictureUrl" alt="Photo of a Shiba Inu" />
+      <!-- <div class="mat-card-image img"></div> -->
+      <mat-card-content>
+        <mat-card-subtitle>{{ item.musicName }}</mat-card-subtitle>
+        <p>{{ item.singerName }}</p>
+      </mat-card-content>
+      <mat-card-actions>
+        <button mat-flat-button *ngIf="!isFavorite" (click)="AddFavorite(item)">
+          Favorite
+        </button>
+        <button
+          mat-flat-button
+          style="background-color: darkred"
+          *ngIf="isFavorite"
+          (click)="deleteFavorite(item.musicId)"
+        >
+          Unfavorite
+        </button>
+        <button mat-flat-button (click)="playSong(item.songUrl)">Play</button>
+      </mat-card-actions>
+    </mat-card>
+  </div>
+  <div *ngIf="!getDataResult || getDataResult.length === 0">
+    <mat-card appearance="outlined">
+      <mat-card-content
+        ><h6 style="text-align: center">No song found.</h6></mat-card-content
+      >
+    </mat-card>
+  </div>
+</div>

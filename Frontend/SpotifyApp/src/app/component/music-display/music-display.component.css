@@ -1,0 +1,64 @@
+.search-results {
+  width: 100%;
+
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  overflow-y: auto;
+  max-height: 505px;
+  padding: 10px;
+}
+
+.example-card {
+  flex: 1 1 250px;
+  max-width: 250px;
+}
+
+.title {
+  padding: 10px;
+}
+
+.mat-mdc-unelevated-button:not(:disabled) {
+  background-color: #1ed760;
+}
+
+.mat-mdc-card-actions {
+  display: flex;
+  gap: 65px;
+  flex-direction: row;
+  align-items: center;
+  box-sizing: border-box;
+  min-height: 52px;
+  padding: 8px;
+  justify-content: end;
+}
+
+.mdc-button__ripple {
+  background-color: darkred;
+}
+
+@media (max-width: 400px) {
+  .example-card {
+    flex: 1 1 100%; /* For smaller screens, each card takes full width */
+  }
+}
+
+.message-container {
+  margin: 10px 0;
+  padding: 10px;
+  border-radius: 4px;
+  font-size: 14px;
+  text-align: center;
+}
+
+.success {
+  background-color: #d4edda;
+  color: #155724;
+  border: 1px solid #c3e6cb;
+}
+
+.error {
+  background-color: #f8d7da;
+  color: #721c24;
+  border: 1px solid #f5c6cb;
+}

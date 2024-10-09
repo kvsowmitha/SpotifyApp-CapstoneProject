@@ -1,0 +1,54 @@
+[
+  {
+    "ContainingType": "AlbumService.Controllers.AlbumController",
+    "Method": "GetAllAlbums",
+    "RelativePath": "api/Album",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AlbumService.Controllers.AlbumController",
+    "Method": "AddAlbum",
+    "RelativePath": "api/Album",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "album",
+        "Type": "AlbumService.Models.Album",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AlbumService.Controllers.ArtistController",
+    "Method": "GetAllArtists",
+    "RelativePath": "api/Artist",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AlbumService.Controllers.ArtistController",
+    "Method": "AddArtist",
+    "RelativePath": "api/Artist",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "artist",
+        "Type": "AlbumService.Models.Artist",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

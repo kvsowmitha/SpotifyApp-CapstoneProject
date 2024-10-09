@@ -1,0 +1,225 @@
+﻿{
+  "Routes": [
+
+    // Register routes
+    {
+      "UseServiceDiscovery": true,
+      "DownstreamPathTemplate": "/api/register/register",
+      "DownstreamScheme": "http",
+      "RouteIsCaseSensitive": false,
+      "UpstreamPathTemplate": "/register",
+      "UpstreamHttpMethod": [ "POST" ],
+      "ServiceName": "UserRegisterAPI",
+      "LoadBalancerOptions": {
+        "Type": "LeastConnection"
+      },
+      "ReRoutesCaseSensitive": false
+    },
+    {
+      "UseServiceDiscovery": true,
+      "DownstreamPathTemplate": "/api/register/email/{email}",
+      "DownstreamScheme": "http",
+      "RouteIsCaseSensitive": false,
+      "UpstreamPathTemplate": "/register/email/{email}",
+      "UpstreamHttpMethod": [ "GET", "DELETE" ],
+      "ServiceName": "UserRegisterAPI",
+      "LoadBalancerOptions": {
+        "Type": "LeastConnection"
+      },
+      "ReRoutesCaseSensitive": false
+    },
+
+    {
+      "UseServiceDiscovery": true,
+      "DownstreamPathTemplate": "/api/register/validate",
+      "DownstreamScheme": "http",
+      "RouteIsCaseSensitive": false,
+      "UpstreamPathTemplate": "/register/validate",
+      "UpstreamHttpMethod": [ "POST" ],
+      "ServiceName": "UserRegisterAPI",
+      "LoadBalancerOptions": {
+        "Type": "LeastConnection"
+      },
+      "ReRoutesCaseSensitive": false
+    },
+    {
+      "UseServiceDiscovery": true,
+      "DownstreamPathTemplate": "/api/register/update",
+      "DownstreamScheme": "http",
+      "RouteIsCaseSensitive": false,
+      "UpstreamPathTemplate": "/register/update",
+      "UpstreamHttpMethod": [ "PUT" ],
+      "ServiceName": "UserRegisterAPI",
+      "LoadBalancerOptions": {
+        "Type": "LeastConnection"
+      },
+      "ReRoutesCaseSensitive": false
+    },
+
+    // Auth routes
+
+    {
+      "UseServiceDiscovery": true,
+      "DownstreamPathTemplate": "/api/Auth/login",
+      "DownstreamScheme": "http",
+      "RouteIsCaseSensitive": false,
+      "UpstreamPathTemplate": "/Auth/login",
+      "UpstreamHttpMethod": [ "POST" ],
+      "ServiceName": "AuthenticationAPI",
+      "LoadBalancerOptions": {
+        "Type": "LeastConnection"
+      },
+      "ReRoutesCaseSensitive": false
+    },
+
+    {
+      "UseServiceDiscovery": true,
+      "DownstreamPathTemplate": "/api/Auth/forgot-password",
+      "DownstreamScheme": "http",
+      "RouteIsCaseSensitive": false,
+      "UpstreamPathTemplate": "/Auth/forgot-password",
+      "UpstreamHttpMethod": [ "POST" ],
+      "ServiceName": "AuthenticationAPI",
+      "LoadBalancerOptions": {
+        "Type": "LeastConnection"
+      },
+      "ReRoutesCaseSensitive": false
+    },
+
+    {
+      "UseServiceDiscovery": true,
+      "DownstreamPathTemplate": "/api/Auth/reset-password",
+      "DownstreamScheme": "http",
+      "RouteIsCaseSensitive": false,
+      "UpstreamPathTemplate": "/Auth/reset-password",
+      "UpstreamHttpMethod": [ "POST" ],
+      "ServiceName": "AuthenticationAPI",
+      "LoadBalancerOptions": {
+        "Type": "LeastConnection"
+      },
+      "ReRoutesCaseSensitive": false
+    },
+
+    {
+      "UseServiceDiscovery": true,
+      "DownstreamPathTemplate": "/api/Auth/{emailId}",
+      "DownstreamScheme": "http",
+      "RouteIsCaseSensitive": false,
+      "UpstreamPathTemplate": "/Auth/{emailId}",
+      "UpstreamHttpMethod": [ "GET" ],
+      "ServiceName": "AuthenticationAPI",
+      "LoadBalancerOptions": {
+        "Type": "LeastConnection"
+      },
+      "ReRoutesCaseSensitive": false
+    },
+
+    // Album routes
+    {
+      "UseServiceDiscovery": true,
+      "DownstreamPathTemplate": "/api/Album",
+      "DownstreamScheme": "http",
+      "RouteIsCaseSensitive": false,
+      "UpstreamPathTemplate": "/Album",
+      "UpstreamHttpMethod": [ "GET", "POST" ],
+      "ServiceName": "AlbumAPI",
+      "LoadBalancerOptions": {
+        "Type": "LeastConnection"
+      },
+      "ReRoutesCaseSensitive": false
+    },
+
+    {
+      "UseServiceDiscovery": true,
+      "DownstreamPathTemplate": "/api/Artist",
+      "DownstreamScheme": "http",
+      "RouteIsCaseSensitive": false,
+      "UpstreamPathTemplate": "/Artist",
+      "UpstreamHttpMethod": [ "GET", "POST" ],
+      "ServiceName": "AlbumAPI",
+      "LoadBalancerOptions": {
+        "Type": "LeastConnection"
+      },
+      "ReRoutesCaseSensitive": false
+    },
+
+    // Favorites routes
+    {
+      "UseServiceDiscovery": true,
+      "DownstreamPathTemplate": "/api/music/all",
+      "DownstreamScheme": "http",
+      "RouteIsCaseSensitive": false,
+      "UpstreamPathTemplate": "/music/all",
+      "UpstreamHttpMethod": [ "GET" ],
+      "ServiceName": "FavouriteAPI",
+      "LoadBalancerOptions": {
+        "Type": "LeastConnection"
+      },
+      "ReRoutesCaseSensitive": false
+    },
+
+    {
+      "UseServiceDiscovery": true,
+      "DownstreamPathTemplate": "/api/music/favorites/{userId}",
+      "DownstreamScheme": "http",
+      "RouteIsCaseSensitive": false,
+      "UpstreamPathTemplate": "/music/favorites/{userId}",
+      "UpstreamHttpMethod": [ "GET" ],
+      "ServiceName": "FavouriteAPI",
+      "LoadBalancerOptions": {
+        "Type": "LeastConnection"
+      },
+      "ReRoutesCaseSensitive": false
+    },
+
+    {
+      "UseServiceDiscovery": true,
+      "DownstreamPathTemplate": "/api/music/favorites/add/{userId}",
+      "DownstreamScheme": "http",
+      "RouteIsCaseSensitive": false,
+      "UpstreamPathTemplate": "/music/favorites/add/{userId}",
+      "UpstreamHttpMethod": [ "POST" ],
+      "ServiceName": "FavouriteAPI",
+      "LoadBalancerOptions": {
+        "Type": "LeastConnection"
+      },
+      "ReRoutesCaseSensitive": false
+    },
+
+    {
+      "UseServiceDiscovery": true,
+      "DownstreamPathTemplate": "/api/music/favorites/remove/{userId}/{musicId}",
+      "DownstreamScheme": "http",
+      "RouteIsCaseSensitive": false,
+      "UpstreamPathTemplate": "/music/favorites/remove/{userId}/{musicId}",
+      "UpstreamHttpMethod": [ "DELETE" ],
+      "ServiceName": "FavouriteAPI",
+      "LoadBalancerOptions": {
+        "Type": "LeastConnection"
+      },
+      "ReRoutesCaseSensitive": false
+    }
+  ],
+
+  "GlobalConfiguration": {
+
+    "ServiceDiscoveryProvider": {
+
+      "Scheme": "http",
+
+      "Host": "localhost",
+
+      "Port": 8500,
+
+      "Type": "Consul",
+
+      "PollingInterval": 1000
+
+      //"ConfigurationKey": "Ocelot_A"
+
+    }
+
+  }
+
+
+}

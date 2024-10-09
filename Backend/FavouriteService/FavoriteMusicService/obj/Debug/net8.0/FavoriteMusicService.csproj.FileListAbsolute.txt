@@ -1,0 +1,247 @@
+D:\Dotnet\Project\FavouriteService (2)\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\appsettings.Development.json
+D:\Dotnet\Project\FavouriteService (2)\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\appsettings.json
+D:\Dotnet\Project\FavouriteService (2)\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\FavoriteMusicService.exe
+D:\Dotnet\Project\FavouriteService (2)\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\FavoriteMusicService.deps.json
+D:\Dotnet\Project\FavouriteService (2)\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\FavoriteMusicService.runtimeconfig.json
+D:\Dotnet\Project\FavouriteService (2)\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\FavoriteMusicService.dll
+D:\Dotnet\Project\FavouriteService (2)\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\FavoriteMusicService.pdb
+D:\Dotnet\Project\FavouriteService (2)\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\AWSSDK.Core.dll
+D:\Dotnet\Project\FavouriteService (2)\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+D:\Dotnet\Project\FavouriteService (2)\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\DnsClient.dll
+D:\Dotnet\Project\FavouriteService (2)\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Dotnet\Project\FavouriteService (2)\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\MongoDB.Bson.dll
+D:\Dotnet\Project\FavouriteService (2)\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\MongoDB.Driver.dll
+D:\Dotnet\Project\FavouriteService (2)\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+D:\Dotnet\Project\FavouriteService (2)\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+D:\Dotnet\Project\FavouriteService (2)\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\SharpCompress.dll
+D:\Dotnet\Project\FavouriteService (2)\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\Snappier.dll
+D:\Dotnet\Project\FavouriteService (2)\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Dotnet\Project\FavouriteService (2)\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Dotnet\Project\FavouriteService (2)\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Dotnet\Project\FavouriteService (2)\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\ZstdSharp.dll
+D:\Dotnet\Project\FavouriteService (2)\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+D:\Dotnet\Project\FavouriteService (2)\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+D:\Dotnet\Project\FavouriteService (2)\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+D:\Dotnet\Project\FavouriteService (2)\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\FavoriteMusicService.csproj.AssemblyReference.cache
+D:\Dotnet\Project\FavouriteService (2)\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\FavoriteMusicService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet\Project\FavouriteService (2)\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\FavoriteMusicService.AssemblyInfoInputs.cache
+D:\Dotnet\Project\FavouriteService (2)\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\FavoriteMusicService.AssemblyInfo.cs
+D:\Dotnet\Project\FavouriteService (2)\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\FavoriteMusicService.csproj.CoreCompileInputs.cache
+D:\Dotnet\Project\FavouriteService (2)\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\FavoriteMusicService.MvcApplicationPartsAssemblyInfo.cs
+D:\Dotnet\Project\FavouriteService (2)\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\FavoriteMusicService.MvcApplicationPartsAssemblyInfo.cache
+D:\Dotnet\Project\FavouriteService (2)\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\staticwebassets.build.json
+D:\Dotnet\Project\FavouriteService (2)\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\staticwebassets.development.json
+D:\Dotnet\Project\FavouriteService (2)\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\staticwebassets\msbuild.FavoriteMusicService.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Dotnet\Project\FavouriteService (2)\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\staticwebassets\msbuild.build.FavoriteMusicService.props
+D:\Dotnet\Project\FavouriteService (2)\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FavoriteMusicService.props
+D:\Dotnet\Project\FavouriteService (2)\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FavoriteMusicService.props
+D:\Dotnet\Project\FavouriteService (2)\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Dotnet\Project\FavouriteService (2)\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\scopedcss\bundle\FavoriteMusicService.styles.css
+D:\Dotnet\Project\FavouriteService (2)\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\Favorite.56969201.Up2Date
+D:\Dotnet\Project\FavouriteService (2)\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\FavoriteMusicService.dll
+D:\Dotnet\Project\FavouriteService (2)\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\refint\FavoriteMusicService.dll
+D:\Dotnet\Project\FavouriteService (2)\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\FavoriteMusicService.pdb
+D:\Dotnet\Project\FavouriteService (2)\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\FavoriteMusicService.genruntimeconfig.cache
+D:\Dotnet\Project\FavouriteService (2)\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\ref\FavoriteMusicService.dll
+E:\1CGI24Training\Project\Devkant\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\appsettings.Development.json
+E:\1CGI24Training\Project\Devkant\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\appsettings.json
+E:\1CGI24Training\Project\Devkant\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\FavoriteMusicService.staticwebassets.endpoints.json
+E:\1CGI24Training\Project\Devkant\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\FavoriteMusicService.exe
+E:\1CGI24Training\Project\Devkant\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\FavoriteMusicService.deps.json
+E:\1CGI24Training\Project\Devkant\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\FavoriteMusicService.runtimeconfig.json
+E:\1CGI24Training\Project\Devkant\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\FavoriteMusicService.dll
+E:\1CGI24Training\Project\Devkant\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\FavoriteMusicService.pdb
+E:\1CGI24Training\Project\Devkant\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\AWSSDK.Core.dll
+E:\1CGI24Training\Project\Devkant\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+E:\1CGI24Training\Project\Devkant\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\DnsClient.dll
+E:\1CGI24Training\Project\Devkant\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\1CGI24Training\Project\Devkant\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\MongoDB.Bson.dll
+E:\1CGI24Training\Project\Devkant\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\MongoDB.Driver.dll
+E:\1CGI24Training\Project\Devkant\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+E:\1CGI24Training\Project\Devkant\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+E:\1CGI24Training\Project\Devkant\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\SharpCompress.dll
+E:\1CGI24Training\Project\Devkant\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\Snappier.dll
+E:\1CGI24Training\Project\Devkant\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\1CGI24Training\Project\Devkant\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\1CGI24Training\Project\Devkant\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\1CGI24Training\Project\Devkant\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\ZstdSharp.dll
+E:\1CGI24Training\Project\Devkant\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+E:\1CGI24Training\Project\Devkant\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+E:\1CGI24Training\Project\Devkant\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+E:\1CGI24Training\Project\Devkant\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\FavoriteMusicService.csproj.AssemblyReference.cache
+E:\1CGI24Training\Project\Devkant\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\FavoriteMusicService.GeneratedMSBuildEditorConfig.editorconfig
+E:\1CGI24Training\Project\Devkant\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\FavoriteMusicService.AssemblyInfoInputs.cache
+E:\1CGI24Training\Project\Devkant\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\FavoriteMusicService.AssemblyInfo.cs
+E:\1CGI24Training\Project\Devkant\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\FavoriteMusicService.csproj.CoreCompileInputs.cache
+E:\1CGI24Training\Project\Devkant\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\FavoriteMusicService.MvcApplicationPartsAssemblyInfo.cs
+E:\1CGI24Training\Project\Devkant\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\FavoriteMusicService.MvcApplicationPartsAssemblyInfo.cache
+E:\1CGI24Training\Project\Devkant\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\scopedcss\bundle\FavoriteMusicService.styles.css
+E:\1CGI24Training\Project\Devkant\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\staticwebassets.build.json
+E:\1CGI24Training\Project\Devkant\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\staticwebassets.development.json
+E:\1CGI24Training\Project\Devkant\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\1CGI24Training\Project\Devkant\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\staticwebassets\msbuild.FavoriteMusicService.Microsoft.AspNetCore.StaticWebAssets.props
+E:\1CGI24Training\Project\Devkant\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\staticwebassets\msbuild.FavoriteMusicService.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\1CGI24Training\Project\Devkant\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\staticwebassets\msbuild.build.FavoriteMusicService.props
+E:\1CGI24Training\Project\Devkant\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FavoriteMusicService.props
+E:\1CGI24Training\Project\Devkant\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FavoriteMusicService.props
+E:\1CGI24Training\Project\Devkant\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\staticwebassets.pack.json
+E:\1CGI24Training\Project\Devkant\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\Favorite.56969201.Up2Date
+E:\1CGI24Training\Project\Devkant\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\FavoriteMusicService.dll
+E:\1CGI24Training\Project\Devkant\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\refint\FavoriteMusicService.dll
+E:\1CGI24Training\Project\Devkant\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\FavoriteMusicService.pdb
+E:\1CGI24Training\Project\Devkant\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\FavoriteMusicService.genruntimeconfig.cache
+E:\1CGI24Training\Project\Devkant\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\ref\FavoriteMusicService.dll
+E:\1CGI24Training\Project\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\appsettings.Development.json
+E:\1CGI24Training\Project\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\appsettings.json
+E:\1CGI24Training\Project\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\FavoriteMusicService.staticwebassets.endpoints.json
+E:\1CGI24Training\Project\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\FavoriteMusicService.exe
+E:\1CGI24Training\Project\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\FavoriteMusicService.deps.json
+E:\1CGI24Training\Project\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\FavoriteMusicService.runtimeconfig.json
+E:\1CGI24Training\Project\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\FavoriteMusicService.dll
+E:\1CGI24Training\Project\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\FavoriteMusicService.pdb
+E:\1CGI24Training\Project\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\AWSSDK.Core.dll
+E:\1CGI24Training\Project\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+E:\1CGI24Training\Project\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\DnsClient.dll
+E:\1CGI24Training\Project\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\1CGI24Training\Project\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\MongoDB.Bson.dll
+E:\1CGI24Training\Project\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\MongoDB.Driver.dll
+E:\1CGI24Training\Project\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+E:\1CGI24Training\Project\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+E:\1CGI24Training\Project\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\SharpCompress.dll
+E:\1CGI24Training\Project\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\Snappier.dll
+E:\1CGI24Training\Project\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\1CGI24Training\Project\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\1CGI24Training\Project\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\1CGI24Training\Project\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\ZstdSharp.dll
+E:\1CGI24Training\Project\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+E:\1CGI24Training\Project\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+E:\1CGI24Training\Project\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+E:\1CGI24Training\Project\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\FavoriteMusicService.csproj.AssemblyReference.cache
+E:\1CGI24Training\Project\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\FavoriteMusicService.GeneratedMSBuildEditorConfig.editorconfig
+E:\1CGI24Training\Project\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\FavoriteMusicService.AssemblyInfoInputs.cache
+E:\1CGI24Training\Project\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\FavoriteMusicService.AssemblyInfo.cs
+E:\1CGI24Training\Project\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\FavoriteMusicService.csproj.CoreCompileInputs.cache
+E:\1CGI24Training\Project\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\FavoriteMusicService.MvcApplicationPartsAssemblyInfo.cs
+E:\1CGI24Training\Project\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\FavoriteMusicService.MvcApplicationPartsAssemblyInfo.cache
+E:\1CGI24Training\Project\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\scopedcss\bundle\FavoriteMusicService.styles.css
+E:\1CGI24Training\Project\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\staticwebassets.build.json
+E:\1CGI24Training\Project\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\staticwebassets.development.json
+E:\1CGI24Training\Project\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\1CGI24Training\Project\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\staticwebassets\msbuild.FavoriteMusicService.Microsoft.AspNetCore.StaticWebAssets.props
+E:\1CGI24Training\Project\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\staticwebassets\msbuild.FavoriteMusicService.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\1CGI24Training\Project\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\staticwebassets\msbuild.build.FavoriteMusicService.props
+E:\1CGI24Training\Project\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FavoriteMusicService.props
+E:\1CGI24Training\Project\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FavoriteMusicService.props
+E:\1CGI24Training\Project\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\staticwebassets.pack.json
+E:\1CGI24Training\Project\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\Favorite.56969201.Up2Date
+E:\1CGI24Training\Project\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\FavoriteMusicService.dll
+E:\1CGI24Training\Project\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\refint\FavoriteMusicService.dll
+E:\1CGI24Training\Project\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\FavoriteMusicService.pdb
+E:\1CGI24Training\Project\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\FavoriteMusicService.genruntimeconfig.cache
+E:\1CGI24Training\Project\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\ref\FavoriteMusicService.dll
+C:\Users\zadmin\Downloads\FinalProject\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\zadmin\Downloads\FinalProject\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\appsettings.json
+C:\Users\zadmin\Downloads\FinalProject\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\NUnit3.TestAdapter.dll
+C:\Users\zadmin\Downloads\FinalProject\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\NUnit3.TestAdapter.pdb
+C:\Users\zadmin\Downloads\FinalProject\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\nunit.engine.dll
+C:\Users\zadmin\Downloads\FinalProject\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\nunit.engine.api.dll
+C:\Users\zadmin\Downloads\FinalProject\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\nunit.engine.core.dll
+C:\Users\zadmin\Downloads\FinalProject\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\testcentric.engine.metadata.dll
+C:\Users\zadmin\Downloads\FinalProject\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\FavoriteMusicService.exe
+C:\Users\zadmin\Downloads\FinalProject\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\FavoriteMusicService.deps.json
+C:\Users\zadmin\Downloads\FinalProject\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\FavoriteMusicService.runtimeconfig.json
+C:\Users\zadmin\Downloads\FinalProject\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\FavoriteMusicService.dll
+C:\Users\zadmin\Downloads\FinalProject\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\FavoriteMusicService.pdb
+C:\Users\zadmin\Downloads\FinalProject\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\zadmin\Downloads\FinalProject\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\zadmin\Downloads\FinalProject\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\DnsClient.dll
+C:\Users\zadmin\Downloads\FinalProject\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\zadmin\Downloads\FinalProject\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\zadmin\Downloads\FinalProject\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\zadmin\Downloads\FinalProject\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\zadmin\Downloads\FinalProject\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\zadmin\Downloads\FinalProject\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\nunit.framework.dll
+C:\Users\zadmin\Downloads\FinalProject\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\zadmin\Downloads\FinalProject\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\Snappier.dll
+C:\Users\zadmin\Downloads\FinalProject\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\zadmin\Downloads\FinalProject\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\zadmin\Downloads\FinalProject\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\zadmin\Downloads\FinalProject\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\zadmin\Downloads\FinalProject\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\zadmin\Downloads\FinalProject\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\zadmin\Downloads\FinalProject\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\zadmin\Downloads\FinalProject\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\FavoriteMusicService.csproj.AssemblyReference.cache
+C:\Users\zadmin\Downloads\FinalProject\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\FavoriteMusicService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zadmin\Downloads\FinalProject\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\FavoriteMusicService.AssemblyInfoInputs.cache
+C:\Users\zadmin\Downloads\FinalProject\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\FavoriteMusicService.AssemblyInfo.cs
+C:\Users\zadmin\Downloads\FinalProject\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\FavoriteMusicService.csproj.CoreCompileInputs.cache
+C:\Users\zadmin\Downloads\FinalProject\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\FavoriteMusicService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\zadmin\Downloads\FinalProject\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\FavoriteMusicService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\zadmin\Downloads\FinalProject\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\zadmin\Downloads\FinalProject\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\zadmin\Downloads\FinalProject\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\staticwebassets\msbuild.FavoriteMusicService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\zadmin\Downloads\FinalProject\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\staticwebassets\msbuild.build.FavoriteMusicService.props
+C:\Users\zadmin\Downloads\FinalProject\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FavoriteMusicService.props
+C:\Users\zadmin\Downloads\FinalProject\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FavoriteMusicService.props
+C:\Users\zadmin\Downloads\FinalProject\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\zadmin\Downloads\FinalProject\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\scopedcss\bundle\FavoriteMusicService.styles.css
+C:\Users\zadmin\Downloads\FinalProject\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\Favorite.56969201.Up2Date
+C:\Users\zadmin\Downloads\FinalProject\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\FavoriteMusicService.dll
+C:\Users\zadmin\Downloads\FinalProject\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\refint\FavoriteMusicService.dll
+C:\Users\zadmin\Downloads\FinalProject\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\FavoriteMusicService.pdb
+C:\Users\zadmin\Downloads\FinalProject\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\FavoriteMusicService.genruntimeconfig.cache
+C:\Users\zadmin\Downloads\FinalProject\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\ref\FavoriteMusicService.dll
+C:\Users\zadmin\Documents\FinalProject(CONSUL, DOCKER)\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\zadmin\Documents\FinalProject(CONSUL, DOCKER)\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\appsettings.json
+C:\Users\zadmin\Documents\FinalProject(CONSUL, DOCKER)\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\NUnit3.TestAdapter.dll
+C:\Users\zadmin\Documents\FinalProject(CONSUL, DOCKER)\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\NUnit3.TestAdapter.pdb
+C:\Users\zadmin\Documents\FinalProject(CONSUL, DOCKER)\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\nunit.engine.dll
+C:\Users\zadmin\Documents\FinalProject(CONSUL, DOCKER)\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\nunit.engine.api.dll
+C:\Users\zadmin\Documents\FinalProject(CONSUL, DOCKER)\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\nunit.engine.core.dll
+C:\Users\zadmin\Documents\FinalProject(CONSUL, DOCKER)\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\testcentric.engine.metadata.dll
+C:\Users\zadmin\Documents\FinalProject(CONSUL, DOCKER)\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\FavoriteMusicService.exe
+C:\Users\zadmin\Documents\FinalProject(CONSUL, DOCKER)\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\FavoriteMusicService.deps.json
+C:\Users\zadmin\Documents\FinalProject(CONSUL, DOCKER)\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\FavoriteMusicService.runtimeconfig.json
+C:\Users\zadmin\Documents\FinalProject(CONSUL, DOCKER)\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\FavoriteMusicService.dll
+C:\Users\zadmin\Documents\FinalProject(CONSUL, DOCKER)\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\FavoriteMusicService.pdb
+C:\Users\zadmin\Documents\FinalProject(CONSUL, DOCKER)\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\zadmin\Documents\FinalProject(CONSUL, DOCKER)\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\zadmin\Documents\FinalProject(CONSUL, DOCKER)\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\DnsClient.dll
+C:\Users\zadmin\Documents\FinalProject(CONSUL, DOCKER)\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\zadmin\Documents\FinalProject(CONSUL, DOCKER)\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\zadmin\Documents\FinalProject(CONSUL, DOCKER)\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\zadmin\Documents\FinalProject(CONSUL, DOCKER)\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\zadmin\Documents\FinalProject(CONSUL, DOCKER)\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\zadmin\Documents\FinalProject(CONSUL, DOCKER)\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\nunit.framework.dll
+C:\Users\zadmin\Documents\FinalProject(CONSUL, DOCKER)\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\zadmin\Documents\FinalProject(CONSUL, DOCKER)\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\Snappier.dll
+C:\Users\zadmin\Documents\FinalProject(CONSUL, DOCKER)\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\zadmin\Documents\FinalProject(CONSUL, DOCKER)\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\zadmin\Documents\FinalProject(CONSUL, DOCKER)\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\zadmin\Documents\FinalProject(CONSUL, DOCKER)\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\zadmin\Documents\FinalProject(CONSUL, DOCKER)\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\zadmin\Documents\FinalProject(CONSUL, DOCKER)\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\zadmin\Documents\FinalProject(CONSUL, DOCKER)\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\zadmin\Documents\FinalProject(CONSUL, DOCKER)\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\FavoriteMusicService.csproj.AssemblyReference.cache
+C:\Users\zadmin\Documents\FinalProject(CONSUL, DOCKER)\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\FavoriteMusicService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zadmin\Documents\FinalProject(CONSUL, DOCKER)\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\FavoriteMusicService.AssemblyInfoInputs.cache
+C:\Users\zadmin\Documents\FinalProject(CONSUL, DOCKER)\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\FavoriteMusicService.AssemblyInfo.cs
+C:\Users\zadmin\Documents\FinalProject(CONSUL, DOCKER)\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\FavoriteMusicService.csproj.CoreCompileInputs.cache
+C:\Users\zadmin\Documents\FinalProject(CONSUL, DOCKER)\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\FavoriteMusicService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\zadmin\Documents\FinalProject(CONSUL, DOCKER)\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\FavoriteMusicService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\zadmin\Documents\FinalProject(CONSUL, DOCKER)\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\zadmin\Documents\FinalProject(CONSUL, DOCKER)\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\zadmin\Documents\FinalProject(CONSUL, DOCKER)\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\staticwebassets\msbuild.FavoriteMusicService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\zadmin\Documents\FinalProject(CONSUL, DOCKER)\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\staticwebassets\msbuild.build.FavoriteMusicService.props
+C:\Users\zadmin\Documents\FinalProject(CONSUL, DOCKER)\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FavoriteMusicService.props
+C:\Users\zadmin\Documents\FinalProject(CONSUL, DOCKER)\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FavoriteMusicService.props
+C:\Users\zadmin\Documents\FinalProject(CONSUL, DOCKER)\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\zadmin\Documents\FinalProject(CONSUL, DOCKER)\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\scopedcss\bundle\FavoriteMusicService.styles.css
+C:\Users\zadmin\Documents\FinalProject(CONSUL, DOCKER)\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\Favorite.56969201.Up2Date
+C:\Users\zadmin\Documents\FinalProject(CONSUL, DOCKER)\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\FavoriteMusicService.dll
+C:\Users\zadmin\Documents\FinalProject(CONSUL, DOCKER)\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\refint\FavoriteMusicService.dll
+C:\Users\zadmin\Documents\FinalProject(CONSUL, DOCKER)\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\FavoriteMusicService.pdb
+C:\Users\zadmin\Documents\FinalProject(CONSUL, DOCKER)\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\FavoriteMusicService.genruntimeconfig.cache
+C:\Users\zadmin\Documents\FinalProject(CONSUL, DOCKER)\FinalProject\Backend\FavouriteService\FavoriteMusicService\obj\Debug\net8.0\ref\FavoriteMusicService.dll
+C:\Users\zadmin\Documents\FinalProject(CONSUL, DOCKER)\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\Consul.dll
+C:\Users\zadmin\Documents\FinalProject(CONSUL, DOCKER)\FinalProject\Backend\FavouriteService\FavoriteMusicService\bin\Debug\net8.0\Newtonsoft.Json.dll

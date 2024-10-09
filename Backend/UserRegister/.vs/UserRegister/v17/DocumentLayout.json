@@ -1,0 +1,426 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\UserRegister\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{043A81C5-02E7-452D-91C9-D151716094D4}|..\\AuthenticationService\\AuthenticationService\\AuthenticationService.csproj|c:\\users\\zadmin\\documents\\finalproject(consul, docker)\\finalproject\\backend\\authenticationservice\\authenticationservice\\authenticationservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B06FAEC-2C0D-423C-892E-91A1377B9708}|UserRegister\\UserRegister.csproj|c:\\users\\zadmin\\documents\\finalproject(consul, docker)\\finalproject\\backend\\userregister\\userregister\\userregister.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0B06FAEC-2C0D-423C-892E-91A1377B9708}|UserRegister\\UserRegister.csproj|solutionrelative:userregister\\userregister.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B06FAEC-2C0D-423C-892E-91A1377B9708}|UserRegister\\UserRegister.csproj|c:\\users\\zadmin\\documents\\finalproject(consul, docker)\\finalproject\\backend\\userregister\\userregister\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0B06FAEC-2C0D-423C-892E-91A1377B9708}|UserRegister\\UserRegister.csproj|solutionrelative:userregister\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5291AD66-16BE-4257-87A8-E74324145439}|..\\FavouriteService\\FavoriteMusicService\\FavoriteMusicService.csproj|c:\\users\\zadmin\\documents\\finalproject(consul, docker)\\finalproject\\backend\\favouriteservice\\favoritemusicservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043A81C5-02E7-452D-91C9-D151716094D4}|..\\AuthenticationService\\AuthenticationService\\AuthenticationService.csproj|c:\\users\\zadmin\\documents\\finalproject(consul, docker)\\finalproject\\backend\\authenticationservice\\authenticationservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E87954F-5232-4372-90A4-75FE00775163}|..\\AlbumService\\AlbumService.csproj|c:\\users\\zadmin\\documents\\finalproject(consul, docker)\\finalproject\\backend\\albumservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB09371-9B8B-4C9B-8797-80F058451F81}|..\\ApiGateway\\ApiGateway\\ApiGateway.csproj|c:\\users\\zadmin\\documents\\finalproject(consul, docker)\\finalproject\\backend\\apigateway\\apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B06FAEC-2C0D-423C-892E-91A1377B9708}|UserRegister\\UserRegister.csproj|c:\\users\\zadmin\\documents\\finalproject(consul, docker)\\finalproject\\backend\\userregister\\userregister\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0B06FAEC-2C0D-423C-892E-91A1377B9708}|UserRegister\\UserRegister.csproj|solutionrelative:userregister\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB09371-9B8B-4C9B-8797-80F058451F81}|..\\ApiGateway\\ApiGateway\\ApiGateway.csproj|c:\\users\\zadmin\\documents\\finalproject(consul, docker)\\finalproject\\backend\\apigateway\\apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB09371-9B8B-4C9B-8797-80F058451F81}|..\\ApiGateway\\ApiGateway\\ApiGateway.csproj|c:\\users\\zadmin\\documents\\finalproject(consul, docker)\\finalproject\\backend\\apigateway\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5291AD66-16BE-4257-87A8-E74324145439}|..\\FavouriteService\\FavoriteMusicService\\FavoriteMusicService.csproj|c:\\users\\zadmin\\documents\\finalproject(consul, docker)\\finalproject\\backend\\favouriteservice\\favoritemusicservice\\favoritemusicservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E87954F-5232-4372-90A4-75FE00775163}|..\\AlbumService\\AlbumService.csproj|c:\\users\\zadmin\\documents\\finalproject(consul, docker)\\finalproject\\backend\\albumservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5291AD66-16BE-4257-87A8-E74324145439}|..\\FavouriteService\\FavoriteMusicService\\FavoriteMusicService.csproj|c:\\users\\zadmin\\documents\\finalproject(consul, docker)\\finalproject\\backend\\favouriteservice\\favoritemusicservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5291AD66-16BE-4257-87A8-E74324145439}|..\\FavouriteService\\FavoriteMusicService\\FavoriteMusicService.csproj|c:\\users\\zadmin\\documents\\finalproject(consul, docker)\\finalproject\\backend\\favouriteservice\\favoritemusicservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5291AD66-16BE-4257-87A8-E74324145439}|..\\FavouriteService\\FavoriteMusicService\\FavoriteMusicService.csproj|c:\\users\\zadmin\\documents\\finalproject(consul, docker)\\finalproject\\backend\\favouriteservice\\favoritemusicservice\\consulcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E87954F-5232-4372-90A4-75FE00775163}|..\\AlbumService\\AlbumService.csproj|c:\\users\\zadmin\\documents\\finalproject(consul, docker)\\finalproject\\backend\\albumservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E87954F-5232-4372-90A4-75FE00775163}|..\\AlbumService\\AlbumService.csproj|c:\\users\\zadmin\\documents\\finalproject(consul, docker)\\finalproject\\backend\\albumservice\\consulcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043A81C5-02E7-452D-91C9-D151716094D4}|..\\AuthenticationService\\AuthenticationService\\AuthenticationService.csproj|c:\\users\\zadmin\\documents\\finalproject(consul, docker)\\finalproject\\backend\\authenticationservice\\authenticationservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B06FAEC-2C0D-423C-892E-91A1377B9708}|UserRegister\\UserRegister.csproj|c:\\users\\zadmin\\documents\\finalproject(consul, docker)\\finalproject\\backend\\userregister\\userregister\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B06FAEC-2C0D-423C-892E-91A1377B9708}|UserRegister\\UserRegister.csproj|solutionrelative:userregister\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043A81C5-02E7-452D-91C9-D151716094D4}|..\\AuthenticationService\\AuthenticationService\\AuthenticationService.csproj|c:\\users\\zadmin\\documents\\finalproject(consul, docker)\\finalproject\\backend\\authenticationservice\\authenticationservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043A81C5-02E7-452D-91C9-D151716094D4}|..\\AuthenticationService\\AuthenticationService\\AuthenticationService.csproj|c:\\users\\zadmin\\documents\\finalproject(consul, docker)\\finalproject\\backend\\authenticationservice\\authenticationservice\\consulcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B06FAEC-2C0D-423C-892E-91A1377B9708}|UserRegister\\UserRegister.csproj|c:\\users\\zadmin\\documents\\finalproject(consul, docker)\\finalproject\\backend\\userregister\\userregister\\consulcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B06FAEC-2C0D-423C-892E-91A1377B9708}|UserRegister\\UserRegister.csproj|solutionrelative:userregister\\consulcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E87954F-5232-4372-90A4-75FE00775163}|..\\AlbumService\\AlbumService.csproj|c:\\users\\zadmin\\documents\\finalproject(consul, docker)\\finalproject\\backend\\albumservice\\migrations\\20241008084249_cmdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043A81C5-02E7-452D-91C9-D151716094D4}|..\\AuthenticationService\\AuthenticationService\\AuthenticationService.csproj|c:\\users\\zadmin\\documents\\finalproject(consul, docker)\\finalproject\\backend\\authenticationservice\\authenticationservice\\migrations\\20241008075457_cldb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B06FAEC-2C0D-423C-892E-91A1377B9708}|UserRegister\\UserRegister.csproj|c:\\users\\zadmin\\documents\\finalproject(consul, docker)\\finalproject\\backend\\userregister\\userregister\\migrations\\20241008075312_crdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B06FAEC-2C0D-423C-892E-91A1377B9708}|UserRegister\\UserRegister.csproj|solutionrelative:userregister\\migrations\\20241008075312_crdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\AuthenticationService\\AuthenticationService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\AuthenticationService\\AuthenticationService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\AuthenticationService\\AuthenticationService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\AuthenticationService\\AuthenticationService\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-08T09:15:42.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\UserRegister\\UserRegister\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "UserRegister\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\UserRegister\\UserRegister\\Properties\\launchSettings.json",
+              "RelativeToolTip": "UserRegister\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-08T09:10:38.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\ApiGateway\\ApiGateway\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\ApiGateway\\ApiGateway\\appsettings.json",
+              "ToolTip": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\ApiGateway\\ApiGateway\\appsettings.json",
+              "RelativeToolTip": "..\\ApiGateway\\ApiGateway\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-08T09:01:30.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\ApiGateway\\ApiGateway\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ApiGateway\\ApiGateway\\Program.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\ApiGateway\\ApiGateway\\Program.cs",
+              "RelativeToolTip": "..\\ApiGateway\\ApiGateway\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T08:59:03.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ocelot.json",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\ApiGateway\\ApiGateway\\Ocelot.json",
+              "RelativeDocumentMoniker": "..\\ApiGateway\\ApiGateway\\Ocelot.json",
+              "ToolTip": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\ApiGateway\\ApiGateway\\Ocelot.json",
+              "RelativeToolTip": "..\\ApiGateway\\ApiGateway\\Ocelot.json",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAgwMMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-08T08:52:22.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthenticationService.csproj",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\AuthenticationService\\AuthenticationService\\AuthenticationService.csproj",
+              "RelativeDocumentMoniker": "..\\AuthenticationService\\AuthenticationService\\AuthenticationService.csproj",
+              "ToolTip": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\AuthenticationService\\AuthenticationService\\AuthenticationService.csproj",
+              "RelativeToolTip": "..\\AuthenticationService\\AuthenticationService\\AuthenticationService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-08T08:03:01.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\AlbumService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\AlbumService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\AlbumService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\AlbumService\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-08T09:16:10.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRegister.csproj",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\UserRegister\\UserRegister\\UserRegister.csproj",
+              "RelativeDocumentMoniker": "UserRegister\\UserRegister.csproj",
+              "ToolTip": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\UserRegister\\UserRegister\\UserRegister.csproj",
+              "RelativeToolTip": "UserRegister\\UserRegister.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-08T07:55:56.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\FavouriteService\\FavoriteMusicService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\FavouriteService\\FavoriteMusicService\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-08T09:16:26.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\Program.cs",
+              "RelativeDocumentMoniker": "..\\FavouriteService\\FavoriteMusicService\\Program.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\Program.cs",
+              "RelativeToolTip": "..\\FavouriteService\\FavoriteMusicService\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBQAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T08:48:13.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FavoriteMusicService.csproj",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\FavoriteMusicService.csproj",
+              "RelativeDocumentMoniker": "..\\FavouriteService\\FavoriteMusicService\\FavoriteMusicService.csproj",
+              "ToolTip": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\FavoriteMusicService.csproj",
+              "RelativeToolTip": "..\\FavouriteService\\FavoriteMusicService\\FavoriteMusicService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-08T08:46:38.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\UserRegister\\UserRegister\\appsettings.json",
+              "RelativeDocumentMoniker": "UserRegister\\appsettings.json",
+              "ToolTip": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\UserRegister\\UserRegister\\appsettings.json",
+              "RelativeToolTip": "UserRegister\\appsettings.json",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAcwBgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-03T05:32:31.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ConsulContext.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\ConsulContext.cs",
+              "RelativeDocumentMoniker": "..\\FavouriteService\\FavoriteMusicService\\ConsulContext.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\ConsulContext.cs",
+              "RelativeToolTip": "..\\FavouriteService\\FavoriteMusicService\\ConsulContext.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAiwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T08:46:58.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\FavouriteService\\FavoriteMusicService\\appsettings.json",
+              "ToolTip": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\appsettings.json",
+              "RelativeToolTip": "..\\FavouriteService\\FavoriteMusicService\\appsettings.json",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAcwAMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-08T08:46:00.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\AlbumService\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\AlbumService\\appsettings.json",
+              "ToolTip": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\AlbumService\\appsettings.json",
+              "RelativeToolTip": "..\\AlbumService\\appsettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-08T08:40:57.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20241008084249_CMdb.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\AlbumService\\Migrations\\20241008084249_CMdb.cs",
+              "RelativeDocumentMoniker": "..\\AlbumService\\Migrations\\20241008084249_CMdb.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\AlbumService\\Migrations\\20241008084249_CMdb.cs",
+              "RelativeToolTip": "..\\AlbumService\\Migrations\\20241008084249_CMdb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T08:42:49.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\AlbumService\\Program.cs",
+              "RelativeDocumentMoniker": "..\\AlbumService\\Program.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\AlbumService\\Program.cs",
+              "RelativeToolTip": "..\\AlbumService\\Program.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAArwEMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T08:41:37.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ConsulContext.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\AlbumService\\ConsulContext.cs",
+              "RelativeDocumentMoniker": "..\\AlbumService\\ConsulContext.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\AlbumService\\ConsulContext.cs",
+              "RelativeToolTip": "..\\AlbumService\\ConsulContext.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAiwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T08:40:05.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\AuthenticationService\\AuthenticationService\\Program.cs",
+              "RelativeDocumentMoniker": "..\\AuthenticationService\\AuthenticationService\\Program.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\AuthenticationService\\AuthenticationService\\Program.cs",
+              "RelativeToolTip": "..\\AuthenticationService\\AuthenticationService\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T08:06:39.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ConsulContext.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\AuthenticationService\\AuthenticationService\\ConsulContext.cs",
+              "RelativeDocumentMoniker": "..\\AuthenticationService\\AuthenticationService\\ConsulContext.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\AuthenticationService\\AuthenticationService\\ConsulContext.cs",
+              "RelativeToolTip": "..\\AuthenticationService\\AuthenticationService\\ConsulContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T08:03:19.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\UserRegister\\UserRegister\\Program.cs",
+              "RelativeDocumentMoniker": "UserRegister\\Program.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\UserRegister\\UserRegister\\Program.cs",
+              "RelativeToolTip": "UserRegister\\Program.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAgwCsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T07:58:55.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\AuthenticationService\\AuthenticationService\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\AuthenticationService\\AuthenticationService\\appsettings.json",
+              "ToolTip": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\AuthenticationService\\AuthenticationService\\appsettings.json",
+              "RelativeToolTip": "..\\AuthenticationService\\AuthenticationService\\appsettings.json",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-08T07:53:51.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ConsulContext.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\UserRegister\\UserRegister\\ConsulContext.cs",
+              "RelativeDocumentMoniker": "UserRegister\\ConsulContext.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\UserRegister\\UserRegister\\ConsulContext.cs",
+              "RelativeToolTip": "UserRegister\\ConsulContext.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAwA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T07:56:20.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20241008075457_CLdb.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\AuthenticationService\\AuthenticationService\\Migrations\\20241008075457_CLdb.cs",
+              "RelativeDocumentMoniker": "..\\AuthenticationService\\AuthenticationService\\Migrations\\20241008075457_CLdb.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\AuthenticationService\\AuthenticationService\\Migrations\\20241008075457_CLdb.cs",
+              "RelativeToolTip": "..\\AuthenticationService\\AuthenticationService\\Migrations\\20241008075457_CLdb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T07:54:57.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20241008075312_crdb.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\UserRegister\\UserRegister\\Migrations\\20241008075312_crdb.cs",
+              "RelativeDocumentMoniker": "UserRegister\\Migrations\\20241008075312_crdb.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\UserRegister\\UserRegister\\Migrations\\20241008075312_crdb.cs",
+              "RelativeToolTip": "UserRegister\\Migrations\\20241008075312_crdb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T07:53:12.674Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 75,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

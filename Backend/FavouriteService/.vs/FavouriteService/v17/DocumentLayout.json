@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\FavouriteService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FDD7558-DC73-4E83-B6BC-1E75191A5059}|FavoriteMusicService\\FavoriteMusicService.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\favouriteservice\\favoritemusicservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FDD7558-DC73-4E83-B6BC-1E75191A5059}|FavoriteMusicService\\FavoriteMusicService.csproj|solutionrelative:favoritemusicservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FDD7558-DC73-4E83-B6BC-1E75191A5059}|FavoriteMusicService\\FavoriteMusicService.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\favouriteservice\\favoritemusicservice\\services\\musicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FDD7558-DC73-4E83-B6BC-1E75191A5059}|FavoriteMusicService\\FavoriteMusicService.csproj|solutionrelative:favoritemusicservice\\services\\musicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FDD7558-DC73-4E83-B6BC-1E75191A5059}|FavoriteMusicService\\FavoriteMusicService.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\favouriteservice\\favoritemusicservice\\services\\imusicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FDD7558-DC73-4E83-B6BC-1E75191A5059}|FavoriteMusicService\\FavoriteMusicService.csproj|solutionrelative:favoritemusicservice\\services\\imusicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FDD7558-DC73-4E83-B6BC-1E75191A5059}|FavoriteMusicService\\FavoriteMusicService.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\favouriteservice\\favoritemusicservice\\models\\userfavorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FDD7558-DC73-4E83-B6BC-1E75191A5059}|FavoriteMusicService\\FavoriteMusicService.csproj|solutionrelative:favoritemusicservice\\models\\userfavorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FDD7558-DC73-4E83-B6BC-1E75191A5059}|FavoriteMusicService\\FavoriteMusicService.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\favouriteservice\\favoritemusicservice\\models\\music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FDD7558-DC73-4E83-B6BC-1E75191A5059}|FavoriteMusicService\\FavoriteMusicService.csproj|solutionrelative:favoritemusicservice\\models\\music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FDD7558-DC73-4E83-B6BC-1E75191A5059}|FavoriteMusicService\\FavoriteMusicService.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\favouriteservice\\favoritemusicservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2FDD7558-DC73-4E83-B6BC-1E75191A5059}|FavoriteMusicService\\FavoriteMusicService.csproj|solutionrelative:favoritemusicservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FDD7558-DC73-4E83-B6BC-1E75191A5059}|FavoriteMusicService\\FavoriteMusicService.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\favouriteservice\\favoritemusicservice\\controllers\\musiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FDD7558-DC73-4E83-B6BC-1E75191A5059}|FavoriteMusicService\\FavoriteMusicService.csproj|solutionrelative:favoritemusicservice\\controllers\\musiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FDD7558-DC73-4E83-B6BC-1E75191A5059}|FavoriteMusicService\\FavoriteMusicService.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\favouriteservice\\favoritemusicservice\\dbcontext\\musicmongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FDD7558-DC73-4E83-B6BC-1E75191A5059}|FavoriteMusicService\\FavoriteMusicService.csproj|solutionrelative:favoritemusicservice\\dbcontext\\musicmongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FDD7558-DC73-4E83-B6BC-1E75191A5059}|FavoriteMusicService\\FavoriteMusicService.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\favouriteservice\\favoritemusicservice\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FDD7558-DC73-4E83-B6BC-1E75191A5059}|FavoriteMusicService\\FavoriteMusicService.csproj|solutionrelative:favoritemusicservice\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FDD7558-DC73-4E83-B6BC-1E75191A5059}|FavoriteMusicService\\FavoriteMusicService.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\favouriteservice\\favoritemusicservice\\exceptions\\usernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FDD7558-DC73-4E83-B6BC-1E75191A5059}|FavoriteMusicService\\FavoriteMusicService.csproj|solutionrelative:favoritemusicservice\\exceptions\\usernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FDD7558-DC73-4E83-B6BC-1E75191A5059}|FavoriteMusicService\\FavoriteMusicService.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\favouriteservice\\favoritemusicservice\\exceptions\\musicnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FDD7558-DC73-4E83-B6BC-1E75191A5059}|FavoriteMusicService\\FavoriteMusicService.csproj|solutionrelative:favoritemusicservice\\exceptions\\musicnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IMusicService.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\Services\\IMusicService.cs",
+              "RelativeDocumentMoniker": "FavoriteMusicService\\Services\\IMusicService.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\Services\\IMusicService.cs",
+              "RelativeToolTip": "FavoriteMusicService\\Services\\IMusicService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAIwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T06:29:34.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MusicService.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\Services\\MusicService.cs",
+              "RelativeDocumentMoniker": "FavoriteMusicService\\Services\\MusicService.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\Services\\MusicService.cs",
+              "RelativeToolTip": "FavoriteMusicService\\Services\\MusicService.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAYwEMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T06:29:15.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MongoDbSettings.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\MongoDbSettings.cs",
+              "RelativeDocumentMoniker": "FavoriteMusicService\\MongoDbSettings.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\MongoDbSettings.cs",
+              "RelativeToolTip": "FavoriteMusicService\\MongoDbSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T06:58:56.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\appsettings.json",
+              "RelativeDocumentMoniker": "FavoriteMusicService\\appsettings.json",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\appsettings.json",
+              "RelativeToolTip": "FavoriteMusicService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-02T06:25:46.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\Program.cs",
+              "RelativeDocumentMoniker": "FavoriteMusicService\\Program.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\Program.cs",
+              "RelativeToolTip": "FavoriteMusicService\\Program.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAmwB4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T06:37:25.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserFavorite.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\Models\\UserFavorite.cs",
+              "RelativeDocumentMoniker": "FavoriteMusicService\\Models\\UserFavorite.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\Models\\UserFavorite.cs",
+              "RelativeToolTip": "FavoriteMusicService\\Models\\UserFavorite.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T06:24:28.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Music.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\Models\\Music.cs",
+              "RelativeDocumentMoniker": "FavoriteMusicService\\Models\\Music.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\Models\\Music.cs",
+              "RelativeToolTip": "FavoriteMusicService\\Models\\Music.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAwwAcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T06:24:00.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MusicMongoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\DbContext\\MusicMongoDbContext.cs",
+              "RelativeDocumentMoniker": "FavoriteMusicService\\DbContext\\MusicMongoDbContext.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\DbContext\\MusicMongoDbContext.cs",
+              "RelativeToolTip": "FavoriteMusicService\\DbContext\\MusicMongoDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T06:50:40.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\Exceptions\\UserNotFoundException.cs",
+              "RelativeDocumentMoniker": "FavoriteMusicService\\Exceptions\\UserNotFoundException.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\Exceptions\\UserNotFoundException.cs",
+              "RelativeToolTip": "FavoriteMusicService\\Exceptions\\UserNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T09:36:38.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MusicNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\Exceptions\\MusicNotFoundException.cs",
+              "RelativeDocumentMoniker": "FavoriteMusicService\\Exceptions\\MusicNotFoundException.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\Exceptions\\MusicNotFoundException.cs",
+              "RelativeToolTip": "FavoriteMusicService\\Exceptions\\MusicNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T09:39:10.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MusicController.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\Controllers\\MusicController.cs",
+              "RelativeDocumentMoniker": "FavoriteMusicService\\Controllers\\MusicController.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\Controllers\\MusicController.cs",
+              "RelativeToolTip": "FavoriteMusicService\\Controllers\\MusicController.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAcwEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T06:28:36.487Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 75,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

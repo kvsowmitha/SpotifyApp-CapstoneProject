@@ -1,0 +1,154 @@
+{
+  "id": "3cEYpjA9oz9GiPac4AsH4n",
+  "name": "Spotify Web API Testing playlist",
+  "tracks": {
+    "items": [
+      {
+        "track": {
+          "preview_url": "https://p.scdn.co/mp3-preview/04599a1fe12ffac01d2bcb08340f84c0dd2cc335?cid=eef533b91c68445dab9568d9ba108fa0",
+          "album": {
+            "id": "2pANdqPvxInB0YvcDiw4ko",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b273ce6d0eef0c1ce77e5f95bbbc",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e02ce6d0eef0c1ce77e5f95bbbc",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d00004851ce6d0eef0c1ce77e5f95bbbc",
+                "width": 64,
+                "height": 64
+              }
+            ],
+            "name": "Progressive Psy Trance Picks Vol.8"
+          },
+          "duration_ms": 376000,
+          "id": "4rzfv0JLZfVhOhbSQ8o5jZ",
+          "name": "Progressive Psy Trance Picks Vol.8"
+        }
+      },
+      {
+        "track": {
+          "preview_url": "https://p.scdn.co/mp3-preview/d61fbb7016904624373008ea056d45e6df891071?cid=eef533b91c68445dab9568d9ba108fa0",
+          "album": {
+            "id": "6nlfkk5GoXRL1nktlATNsy",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b273aa2ff29970d9a63a49dfaeb2",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e02aa2ff29970d9a63a49dfaeb2",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d00004851aa2ff29970d9a63a49dfaeb2",
+                "width": 64,
+                "height": 64
+              }
+            ],
+            "name": "Wellness & Dreaming Source"
+          },
+          "duration_ms": 730066,
+          "id": "5o3jMYOSbaVz3tkgwhELSV",
+          "name": "Is"
+        }
+      },
+      {
+        "track": {
+          "preview_url": "https://p.scdn.co/mp3-preview/cc680ec0f5fd5ff21f0cd11ac47e10d3cbb92190?cid=eef533b91c68445dab9568d9ba108fa0",
+          "album": {
+            "id": "4hnqM0JK4CM1phwfq1Ldyz",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b273ee0d0dce888c6c8a70db6e8b",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e02ee0d0dce888c6c8a70db6e8b",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d00004851ee0d0dce888c6c8a70db6e8b",
+                "width": 64,
+                "height": 64
+              }
+            ],
+            "name": "This Is Happening"
+          },
+          "duration_ms": 401440,
+          "id": "4Cy0NHJ8Gh0xMdwyM9RkQm",
+          "name": "All I Want"
+        }
+      },
+      {
+        "track": {
+          "preview_url": "https://p.scdn.co/mp3-preview/d6ecf1f98d0b1fdc8c535de8e2010d0d8b8d040b?cid=eef533b91c68445dab9568d9ba108fa0",
+          "album": {
+            "id": "2usKFntxa98WHMcyW6xJBz",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b2738b7447ac3daa1da18811cf7b",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e028b7447ac3daa1da18811cf7b",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d000048518b7447ac3daa1da18811cf7b",
+                "width": 64,
+                "height": 64
+              }
+            ],
+            "name": "Glenn Horiuchi Trio / Gelenn Horiuchi Quartet: Mercy / Jump Start / Endpoints / Curl Out / Earthworks / Mind Probe / Null Set / Another Space (A)"
+          },
+          "duration_ms": 358760,
+          "id": "6hvFrZNocdt2FcKGCSY5NI",
+          "name": "Endpoints"
+        }
+      },
+      {
+        "track": {
+          "preview_url": "https://p.scdn.co/mp3-preview/d6ecf1f98d0b1fdc8c535de8e2010d0d8b8d040b?cid=eef533b91c68445dab9568d9ba108fa0",
+          "album": {
+            "id": "0ivM6kSawaug0j3tZVusG2",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b27304e57d181ff062f8339d6c71",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e0204e57d181ff062f8339d6c71",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000485104e57d181ff062f8339d6c71",
+                "width": 64,
+                "height": 64
+              }
+            ],
+            "name": "All The Best (Spanish Version)"
+          },
+          "duration_ms": 176093,
+          "id": "2E2znCPaS8anQe21GLxcvJ",
+          "name": "You Are So Beautiful"
+        }
+      }
+    ],
+    "total": 5
+  }
+}

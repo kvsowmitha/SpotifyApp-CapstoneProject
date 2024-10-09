@@ -1,0 +1,76 @@
+body {
+  background-color: #000;
+  color: #fff;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.profile-container {
+  background-color: #1a1a1a;
+  border-radius: 10px;
+  padding: 30px;
+  width: 100%;
+  max-width: 600px; /* Adjusted to fit content */
+  margin: 0 auto;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.6);
+  text-align: left; /* Changed to left align for better readability */
+}
+
+.spotify-logo {
+  max-width: 180px;
+  margin-bottom: 20px;
+}
+
+h2 {
+  color: #fff;
+  margin-bottom: 30px;
+  text-align: center; /* Center the heading */
+}
+
+.profile-info {
+  margin-top: 20px;
+  margin-left: 60px;
+  margin-right: 60px;
+}
+
+.user-name {
+  font-size: 1.5rem; /* Adjusted font size for the user name */
+  font-weight: 600; /* Increased font weight for emphasis */
+  text-align: center; /* Center the user name */
+  color: #fff; /* Set color to white for visibility */
+}
+
+.form-control-readonly {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 10px; /* Added margin for better spacing */
+  width: 100%; /* Full width for the input */
+}
+
+label {
+  color: #bbb;
+  margin-right: 10px;
+  width: 100%; /* Full width to take the space in the row */
+}
+
+.btn-save {
+  background-color: #1DB954;
+  color: #fff;
+  border: none;
+  padding: 10px 20px; /* Keeping previous padding */
+  font-size: 16px; /* Keeping previous font size */
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+.btn-save:hover {
+  background-color: #17a74a;
+}
