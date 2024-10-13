@@ -1,0 +1,29 @@
+<div class="music-player">
+  <div class="controls">
+    <button mat-icon-button (click)="toggleReplay()">
+      <mat-icon>replay</mat-icon>
+    </button>
+
+    <button mat-icon-button (click)="replay_10()">
+      <mat-icon>replay_10</mat-icon>
+    </button>
+
+    <button mat-icon-button (click)="togglePlay()">
+      <mat-icon>{{ isPlaying ? "pause" : "play_arrow" }}</mat-icon>
+    </button>
+
+    <button mat-icon-button (click)="forward_10()">
+      <mat-icon>forward_10</mat-icon>
+    </button>
+
+    <button mat-icon-button (click)="toggleMute()">
+      <mat-icon>{{ isMuted ? "volume_off" : "volume_up" }}</mat-icon>
+    </button>
+  </div>
+
+  <div class="progress-bar">
+    <span>{{ currentTime }}</span>
+    <input type="range" [value]="progress" (input)="seek($event)" />
+    <span>{{ duration }}</span>
+  </div>
+</div>

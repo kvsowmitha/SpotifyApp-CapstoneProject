@@ -1,0 +1,31 @@
+<div class="nav-bar">
+  <div class="user-welcome">
+    @if (isLoggedIn) {
+    <h6 style="color: whitesmoke">Welcome {{uname}}!</h6>
+    }
+  </div>
+  <div class="search">
+    <mat-icon
+      style="padding: 4px; margin: 8px; color: black; margin-bottom: 13px"
+      >search</mat-icon
+    >
+    <input
+      type="search"
+      (input)="onSearch($event)"
+      placeholder="Search..."
+      #searchInput
+    />
+  </div>
+
+  <div class="signin">
+    <!-- Show SignUp and SignIn if user is not logged in -->
+    <ng-container *ngIf="!isLoggedIn; else loggedInTemplate">
+      <button (click)="openSigninPopup()">SignIn</button>
+    </ng-container>
+
+    <!-- Show SignOut if user is logged in -->
+    <ng-template #loggedInTemplate>
+      <button (click)="logout()">SignOut</button>
+    </ng-template>
+  </div>
+</div>

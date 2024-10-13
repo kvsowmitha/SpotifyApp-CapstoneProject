@@ -1,0 +1,83 @@
+<div class="container" #container>
+  <div class="form-container sign-up">
+    <form [formGroup]="registerForm" (ngSubmit)="registerUser()">
+      <h2>Create Account</h2>
+      <br />
+      <input type="text" formControlName="name" placeholder="Name" />
+      <small class="error" *ngIf="registerForm.get('name')?.invalid && registerForm.get('name')?.dirty">
+        Name is required.
+      </small>
+
+      <input type="email" formControlName="email" placeholder="Email" />
+      <small class="error" *ngIf="registerForm.get('email')?.invalid && registerForm.get('email')?.touched">
+        Enter valid email id.
+      </small>
+
+      <input type="password" formControlName="password" placeholder="Password" />
+      <small class="error" *ngIf="registerForm.get('password')?.invalid && registerForm.get('password')?.touched">
+        Password is required and must be at least 6 characters.
+      </small>
+
+      <input type="password" formControlName="confirmPassword" placeholder="Confirm Password" />
+      <small class="error"
+        *ngIf="registerForm.get('confirmPassword')?.invalid && registerForm.get('confirmPassword')?.touched">
+        Confirm password is required.
+      </small>
+      <div *ngIf="registerForm.get('confirmPassword')?.touched && registerForm.hasError('passwordMismatch')">
+        <small class="error">Passwords do not match.</small>
+      </div>
+
+      <input type="text" formControlName="dateOfBirth" placeholder="Date of Birth" />
+      <small class="error" *ngIf="registerForm.get('dateOfBirth')?.invalid && registerForm.get('dateOfBirth')?.touched">
+        Date of birth is required.
+      </small>
+
+      <input type="text" formControlName="gender" placeholder="Gender" />
+      <small class="error" *ngIf="registerForm.get('gender')?.invalid && registerForm.get('gender')?.touched">
+        Gender is required.
+      </small>
+
+      <button type="submit" [disabled]="registerForm.invalid">Sign Up</button>
+    </form>
+  </div>
+
+  <div class="form-container sign-in">
+    <form [formGroup]="loginForm" (ngSubmit)="loginUser()">
+      <h1>Sign In</h1>
+      <br />
+      <input type="email" formControlName="email" placeholder="Email" />
+      <small class="error" *ngIf="loginForm.get('email')?.invalid && loginForm.get('email')?.touched">
+        A valid email is required.
+      </small>
+
+      <input type="password" formControlName="password" placeholder="Password" />
+      <small class="error" *ngIf="loginForm.get('password')?.invalid && loginForm.get('password')?.touched">
+        Password is required.
+      </small>
+
+      <a (click)="goToForgetPassword()">Forget Your Password?</a>
+      <button type="submit" [disabled]="loginForm.invalid">Sign In</button>
+      <div *ngIf="errorMessage" class="error">{{ errorMessage }}</div>
+    </form>
+  </div>
+
+  <div class="toggle-container">
+    <div class="toggle">
+      <div class="toggle-panel toggle-left">
+        <h1>Welcome Back!</h1>
+        <p>Enter your personal details to use all of the site's features</p>
+        <button class="hidden" (click)="toggleSignIn()">Sign In</button>
+        <button class="hidden" (click)="close()">CLOSE</button>
+      </div>
+
+      <div class="toggle-panel toggle-right">
+        <h1>Hello, Friend!</h1>
+        <p>
+          Register with your personal details to use all of the site's features
+        </p>
+        <button class="hidden" (click)="toggleSignUp()">Sign Up</button>
+        <button class="hidden" (click)="close()">CLOSE</button>
+      </div>
+    </div>
+  </div>
+</div>

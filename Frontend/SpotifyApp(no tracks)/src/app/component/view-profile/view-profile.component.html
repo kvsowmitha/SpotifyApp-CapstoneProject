@@ -1,0 +1,50 @@
+<div class="profile-container text-center" *ngIf="isLoggedIn">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Spotify_logo_with_text.svg" alt="Spotify Logo" class="spotify-logo mb-4">
+
+  <h2>User Profile</h2>
+
+  <div class="profile-info">
+    <!-- User Name -->
+    <div class="row mb-3">
+      <div class="col-md-12">
+        <p class="user-name">{{ user?.name }}</p>
+      </div>
+    </div>
+
+    <!-- Email -->
+    <div class="row mb-3">
+      <div class="col-md-4 text-start">
+        <label class="form-label">Email address:</label>
+      </div>
+      <div class="col-md-8">
+        <p class="form-control-readonly">{{ user?.email }}</p>
+      </div>
+    </div>
+
+    <!-- Date of Birth -->
+    <div class="row mb-3">
+      <div class="col-md-4 text-start">
+        <label class="form-label">Date of Birth:</label>
+      </div>
+      <div class="col-md-8">
+        <p class="form-control-readonly">{{ user?.dob }}</p>
+      </div>
+    </div>
+
+    <!-- Gender -->
+    <div class="row mb-3">
+      <div class="col-md-4 text-start">
+        <label class="form-label">Gender:</label>
+      </div>
+      <div class="col-md-8">
+        <p class="form-control-readonly">{{ user?.gender }}</p>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<!-- Show a message if the user is not logged in -->
+<div class="text-center" *ngIf="!isLoggedIn">
+  <p>Please log in to view your profile.</p>
+</div>

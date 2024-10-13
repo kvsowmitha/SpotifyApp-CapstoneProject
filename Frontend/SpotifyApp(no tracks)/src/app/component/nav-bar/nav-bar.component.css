@@ -1,0 +1,82 @@
+.nav-bar {
+  height: 15vh;
+  width: auto;
+  background-color: antiquewhite;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.search {
+  margin: 0 auto;
+}
+
+.custom-dialog-container {
+  position: absolute !important;
+  left: calc(50% - 384px) !important;
+  width: 80% !important;
+  max-width: none !important;
+}
+
+.signin button {
+  height: 50px;
+  border-radius: 25px;
+  padding: 0 20px;
+  background-color: white;
+}
+
+.nav-bar {
+  background: linear-gradient(to left, #1ed760 0%, #065f46 60%, #121212 100%);
+  padding: 20px;
+  transition: background-color 15s ease;
+}
+
+.search input {
+  width: 250px;
+  height: 50px;
+  /* border-radius: 25px; */
+  margin-right: 25px;
+  border: none;
+}
+.search input:focus-visible {
+  outline: none;
+}
+.search {
+  /* color: whitesmoke; */
+  display: flex;
+  align-items: center;
+  background: white;
+  border-radius: 25px;
+}
+
+/* Responsive Breakpoints */
+@media (max-width: 768px) {
+  .nav-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .search input {
+    max-width: none;
+    width: 75%;
+  }
+
+  .signin {
+    margin-top: 10px;
+  }
+  .user-welcome {
+    margin-top: 100px;
+    display: none;
+  }
+}
+
+@media (max-width: 450px) {
+  .nav-bar {
+    padding: 10px;
+  }
+  .search input {
+    max-width: none;
+    width: 45%;
+  }
+}
