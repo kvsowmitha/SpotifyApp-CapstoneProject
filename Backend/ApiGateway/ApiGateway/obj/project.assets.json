@@ -4773,11 +4773,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\ApiGateway\\ApiGateway\\ApiGateway.csproj",
+      "projectUniqueName": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\SpotifyApp\\Backend\\ApiGateway\\ApiGateway\\ApiGateway.csproj",
       "projectName": "ApiGateway",
-      "projectPath": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\ApiGateway\\ApiGateway\\ApiGateway.csproj",
+      "projectPath": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\SpotifyApp\\Backend\\ApiGateway\\ApiGateway\\ApiGateway.csproj",
       "packagesPath": "C:\\Users\\zadmin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\ApiGateway\\ApiGateway\\obj\\",
+      "outputPath": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\SpotifyApp\\Backend\\ApiGateway\\ApiGateway\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\zadmin\\AppData\\Roaming\\NuGet\\NuGet.Config",

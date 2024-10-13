@@ -1,0 +1,78 @@
+.artist-row {
+
+  width: 100%;
+
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  overflow-y: auto;
+  max-height: 505px;
+  padding: 10px;
+
+}
+
+.artist-card {
+
+  position: relative;
+
+  width: 250px;
+
+  padding: 10px;
+
+  transition: transform 0.3s ease, background-color 0.3s ease;
+
+  background-color: #111;
+
+  color: white;
+
+}
+
+.artist-info h4 {
+
+  margin: 10px 0 5px;
+
+  font-size: 1em;
+
+}
+
+.artist-info p {
+
+  font-size: 0.85em;
+
+  color: #bbb;
+
+}
+
+.artist-card:hover {
+
+  background-color: #444;
+
+  transform: scale(1.05);
+
+}
+
+.artist-card:hover .play-button {
+
+  opacity: 1;
+
+}
+
+.mat-card {
+
+  border-radius: 10px;
+
+}
+
+img {
+
+  width: 230px;
+
+  height: 230px;
+
+}
+
+.title {
+
+  padding: 10px;
+
+}

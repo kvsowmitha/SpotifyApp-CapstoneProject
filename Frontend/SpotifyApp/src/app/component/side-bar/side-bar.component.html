@@ -1,18 +1,19 @@
 <div class="side-bar">
-  <div class="logo">
-    <img src="images/spotify_green.png" alt="Spotify_logo" />
+  <div class="logo" (click)="goToHome()">
+    <img src="images/MusicOn_green.jpeg" alt="MusicOn_logo" style="cursor: pointer;" />
   </div>
+    
   <div class="vertical-menu">
     <button (click)="goToHome()">Home</button>
     
     <!-- <button>Profile</button> -->
-    <button (click)="goToProfile()">Profile</button>
+    <!-- <button (click)="goToProfile()">Profile</button> -->
     
   </div>
   <div class="vertical-menu">
     <h4>Your Library</h4>
 
-    <button (click)="goToFavorite()">Favorite💚</button>
+    <button  *ngIf="isLoggedIn" (click)="goToFavorite()">Favorite💚</button>
     <button (click)="goToAlbum()">Album</button>
     <button (click)="goToArtist()">Artist</button>
     

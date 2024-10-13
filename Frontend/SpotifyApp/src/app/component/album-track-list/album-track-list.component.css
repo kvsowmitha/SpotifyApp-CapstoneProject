@@ -1,0 +1,109 @@
+.album-container {
+  color: white;
+  /* background: linear-gradient(180deg, #63a648, #1c1c1c); */
+  background: linear-gradient(to bottom, #156d34 0%, #065f46 60%, #121212 100%);
+  padding: 2rem;
+  padding-bottom: 150px; /* Ensure enough space for audio player */
+  height: 85vh;
+  overflow-y: auto;  /* Enable scrolling when content overflows */
+}
+.album-header {
+  display: flex;
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+.album-cover {
+  width: 200px;
+  height: 200px;
+  border-radius: 8px;
+}
+.album-info h1 {
+  font-size: 3rem;
+}
+.album-meta {
+  font-size: 1rem;
+  margin-top: 1rem;
+  color: #b3b3b3;
+}
+.playback-controls {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+.play-button {
+  background-color: #1db954;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  font-size: 1.5rem;
+}
+.track-list {
+  width: 100%;
+  z-index: 1; /* Ensure track list is clickable */
+}
+.track-list th,
+.track-list td {
+  text-align: left;
+  padding: 0.5rem;
+  border-bottom: 1px solid #3e3e3e;
+}
+.track-list td {
+  color:white;
+}
+.track-title {
+  font-size: 1rem;
+  font-weight: bold;
+}
+.track-singers {
+  font-size: 0.9rem;
+  color: #b3b3b3;
+  margin-top: 0.2rem;
+}
+.audio-player {
+  position: fixed;
+  bottom: 10px;
+  left: 164px;
+  right: 0px;
+  z-index: 10; /* Make sure it's on top */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.controls {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px 0;
+}
+.controls button {
+  margin: 0 10px;
+}
+.progress-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-direction: row;
+  width: 52%;
+}
+.progress-bar input {
+  width: 80%;
+}
+button {
+  color: #ffffff;
+  background-color: #121212;
+  border-radius: 24px;
+}
+.mat-icon {
+  -webkit-user-select: none;
+  user-select: none;
+  background-repeat: no-repeat;
+  display: inline-block;
+  fill: currentColor;
+  height: 26px;
+  width: 32px;
+  border-radius: 22px;
+  overflow: hidden;
+  margin-top: 8px;
+}

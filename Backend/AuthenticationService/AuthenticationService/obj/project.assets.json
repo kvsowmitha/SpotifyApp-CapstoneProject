@@ -6864,11 +6864,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\AuthenticationService\\AuthenticationService\\AuthenticationService.csproj",
+      "projectUniqueName": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\SpotifyApp\\Backend\\AuthenticationService\\AuthenticationService\\AuthenticationService.csproj",
       "projectName": "AuthenticationService",
-      "projectPath": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\AuthenticationService\\AuthenticationService\\AuthenticationService.csproj",
+      "projectPath": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\SpotifyApp\\Backend\\AuthenticationService\\AuthenticationService\\AuthenticationService.csproj",
       "packagesPath": "C:\\Users\\zadmin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\AuthenticationService\\AuthenticationService\\obj\\",
+      "outputPath": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\SpotifyApp\\Backend\\AuthenticationService\\AuthenticationService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\zadmin\\AppData\\Roaming\\NuGet\\NuGet.Config",

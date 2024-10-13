@@ -1,7 +1,72 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\SpotifyApp\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA77C28E-492A-4438-BB66-6F74C9CEC786}|ApiGateway\\ApiGateway\\ApiGateway.csproj|c:\\users\\zadmin\\documents\\finalproject(consul, docker)\\spotifyapp\\backend\\apigateway\\apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DA77C28E-492A-4438-BB66-6F74C9CEC786}|ApiGateway\\ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF2129D7-1ABD-479B-9A11-986574D8C551}|MusicService\\MusicService\\MusicService.csproj|c:\\users\\zadmin\\documents\\finalproject(consul, docker)\\spotifyapp\\backend\\musicservice\\musicservice\\musicservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CF2129D7-1ABD-479B-9A11-986574D8C551}|MusicService\\MusicService\\MusicService.csproj|solutionrelative:musicservice\\musicservice\\musicservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE2954F-BB9F-405F-A0B0-654BB92388F1}|UserRegister\\UserRegister\\UserRegister.csproj|c:\\users\\zadmin\\documents\\finalproject(consul, docker)\\spotifyapp\\backend\\userregister\\userregister\\userregister.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DCE2954F-BB9F-405F-A0B0-654BB92388F1}|UserRegister\\UserRegister\\UserRegister.csproj|solutionrelative:userregister\\userregister\\userregister.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF2129D7-1ABD-479B-9A11-986574D8C551}|MusicService\\MusicService\\MusicService.csproj|c:\\users\\zadmin\\documents\\finalproject(consul, docker)\\spotifyapp\\backend\\musicservice\\musicservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CF2129D7-1ABD-479B-9A11-986574D8C551}|MusicService\\MusicService\\MusicService.csproj|solutionrelative:musicservice\\musicservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA77C28E-492A-4438-BB66-6F74C9CEC786}|ApiGateway\\ApiGateway\\ApiGateway.csproj|c:\\users\\zadmin\\documents\\finalproject(consul, docker)\\spotifyapp\\backend\\apigateway\\apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DA77C28E-492A-4438-BB66-6F74C9CEC786}|ApiGateway\\ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA77C28E-492A-4438-BB66-6F74C9CEC786}|ApiGateway\\ApiGateway\\ApiGateway.csproj|c:\\users\\zadmin\\documents\\finalproject(consul, docker)\\spotifyapp\\backend\\apigateway\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA77C28E-492A-4438-BB66-6F74C9CEC786}|ApiGateway\\ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F721B5-DCA1-40A6-85FF-55009F5EE06F}|FavouriteService\\FavoriteMusicService\\FavoriteMusicService.csproj|c:\\users\\zadmin\\documents\\finalproject(consul, docker)\\spotifyapp\\backend\\favouriteservice\\favoritemusicservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E3F721B5-DCA1-40A6-85FF-55009F5EE06F}|FavouriteService\\FavoriteMusicService\\FavoriteMusicService.csproj|solutionrelative:favouriteservice\\favoritemusicservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF2129D7-1ABD-479B-9A11-986574D8C551}|MusicService\\MusicService\\MusicService.csproj|c:\\users\\zadmin\\documents\\finalproject(consul, docker)\\spotifyapp\\backend\\musicservice\\musicservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CF2129D7-1ABD-479B-9A11-986574D8C551}|MusicService\\MusicService\\MusicService.csproj|solutionrelative:musicservice\\musicservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F721B5-DCA1-40A6-85FF-55009F5EE06F}|FavouriteService\\FavoriteMusicService\\FavoriteMusicService.csproj|c:\\users\\zadmin\\documents\\finalproject(consul, docker)\\spotifyapp\\backend\\favouriteservice\\favoritemusicservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E3F721B5-DCA1-40A6-85FF-55009F5EE06F}|FavouriteService\\FavoriteMusicService\\FavoriteMusicService.csproj|solutionrelative:favouriteservice\\favoritemusicservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF2129D7-1ABD-479B-9A11-986574D8C551}|MusicService\\MusicService\\MusicService.csproj|c:\\users\\zadmin\\documents\\finalproject(consul, docker)\\spotifyapp\\backend\\musicservice\\musicservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CF2129D7-1ABD-479B-9A11-986574D8C551}|MusicService\\MusicService\\MusicService.csproj|solutionrelative:musicservice\\musicservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE2954F-BB9F-405F-A0B0-654BB92388F1}|UserRegister\\UserRegister\\UserRegister.csproj|c:\\users\\zadmin\\documents\\finalproject(consul, docker)\\spotifyapp\\backend\\userregister\\userregister\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DCE2954F-BB9F-405F-A0B0-654BB92388F1}|UserRegister\\UserRegister\\UserRegister.csproj|solutionrelative:userregister\\userregister\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF2129D7-1ABD-479B-9A11-986574D8C551}|MusicService\\MusicService\\MusicService.csproj|c:\\users\\zadmin\\documents\\finalproject(consul, docker)\\spotifyapp\\backend\\musicservice\\musicservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF2129D7-1ABD-479B-9A11-986574D8C551}|MusicService\\MusicService\\MusicService.csproj|solutionrelative:musicservice\\musicservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF2129D7-1ABD-479B-9A11-986574D8C551}|MusicService\\MusicService\\MusicService.csproj|c:\\users\\zadmin\\documents\\finalproject(consul, docker)\\spotifyapp\\backend\\musicservice\\musicservice\\consulcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF2129D7-1ABD-479B-9A11-986574D8C551}|MusicService\\MusicService\\MusicService.csproj|solutionrelative:musicservice\\musicservice\\consulcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE2954F-BB9F-405F-A0B0-654BB92388F1}|UserRegister\\UserRegister\\UserRegister.csproj|c:\\users\\zadmin\\documents\\finalproject(consul, docker)\\spotifyapp\\backend\\userregister\\userregister\\consulcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCE2954F-BB9F-405F-A0B0-654BB92388F1}|UserRegister\\UserRegister\\UserRegister.csproj|solutionrelative:userregister\\userregister\\consulcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1631ADAB-2F34-4BAF-A9A9-CD25CEAE2342}|AuthenticationService\\AuthenticationService\\AuthenticationService.csproj|c:\\users\\zadmin\\documents\\finalproject(consul, docker)\\spotifyapp\\backend\\authenticationservice\\authenticationservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1631ADAB-2F34-4BAF-A9A9-CD25CEAE2342}|AuthenticationService\\AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\authenticationservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A2C1F0-506F-41C5-B243-D57AAD50F57C}|AlbumService\\AlbumService.csproj|c:\\users\\zadmin\\documents\\finalproject(consul, docker)\\spotifyapp\\backend\\albumservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{63A2C1F0-506F-41C5-B243-D57AAD50F57C}|AlbumService\\AlbumService.csproj|solutionrelative:albumservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +83,206 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MusicService",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\SpotifyApp\\Backend\\MusicService\\MusicService\\MusicService.csproj",
+              "RelativeDocumentMoniker": "MusicService\\MusicService\\MusicService.csproj",
+              "ToolTip": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\SpotifyApp\\Backend\\MusicService\\MusicService\\MusicService.csproj",
+              "RelativeToolTip": "MusicService\\MusicService\\MusicService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-13T10:41:15.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRegister",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\SpotifyApp\\Backend\\UserRegister\\UserRegister\\UserRegister.csproj",
+              "RelativeDocumentMoniker": "UserRegister\\UserRegister\\UserRegister.csproj",
+              "ToolTip": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\SpotifyApp\\Backend\\UserRegister\\UserRegister\\UserRegister.csproj",
+              "RelativeToolTip": "UserRegister\\UserRegister\\UserRegister.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-13T10:39:53.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\SpotifyApp\\Backend\\MusicService\\MusicService\\Dockerfile",
+              "RelativeDocumentMoniker": "MusicService\\MusicService\\Dockerfile",
+              "ToolTip": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\SpotifyApp\\Backend\\MusicService\\MusicService\\Dockerfile",
+              "RelativeToolTip": "MusicService\\MusicService\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-13T10:28:38.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\SpotifyApp\\Backend\\MusicService\\MusicService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MusicService\\MusicService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\SpotifyApp\\Backend\\MusicService\\MusicService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MusicService\\MusicService\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-13T06:49:28.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\SpotifyApp\\Backend\\FavouriteService\\FavoriteMusicService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FavouriteService\\FavoriteMusicService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\SpotifyApp\\Backend\\FavouriteService\\FavoriteMusicService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FavouriteService\\FavoriteMusicService\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-13T06:48:46.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ocelot.json",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\SpotifyApp\\Backend\\ApiGateway\\ApiGateway\\Ocelot.json",
+              "RelativeDocumentMoniker": "ApiGateway\\ApiGateway\\Ocelot.json",
+              "ToolTip": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\SpotifyApp\\Backend\\ApiGateway\\ApiGateway\\Ocelot.json",
+              "RelativeToolTip": "ApiGateway\\ApiGateway\\Ocelot.json",
+              "ViewState": "AQIAAE8BAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-13T06:18:58.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\SpotifyApp\\Backend\\ApiGateway\\ApiGateway\\Program.cs",
+              "RelativeDocumentMoniker": "ApiGateway\\ApiGateway\\Program.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\SpotifyApp\\Backend\\ApiGateway\\ApiGateway\\Program.cs",
+              "RelativeToolTip": "ApiGateway\\ApiGateway\\Program.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T06:47:36.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\SpotifyApp\\Backend\\ApiGateway\\ApiGateway\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiGateway\\ApiGateway\\appsettings.json",
+              "ToolTip": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\SpotifyApp\\Backend\\ApiGateway\\ApiGateway\\appsettings.json",
+              "RelativeToolTip": "ApiGateway\\ApiGateway\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-13T06:47:32.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\SpotifyApp\\Backend\\MusicService\\MusicService\\Program.cs",
+              "RelativeDocumentMoniker": "MusicService\\MusicService\\Program.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\SpotifyApp\\Backend\\MusicService\\MusicService\\Program.cs",
+              "RelativeToolTip": "MusicService\\MusicService\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwBwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T06:05:46.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\SpotifyApp\\Backend\\MusicService\\MusicService\\appsettings.json",
+              "RelativeDocumentMoniker": "MusicService\\MusicService\\appsettings.json",
+              "ToolTip": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\SpotifyApp\\Backend\\MusicService\\MusicService\\appsettings.json",
+              "RelativeToolTip": "MusicService\\MusicService\\appsettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-12T17:27:32.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\SpotifyApp\\Backend\\FavouriteService\\FavoriteMusicService\\appsettings.json",
+              "RelativeDocumentMoniker": "FavouriteService\\FavoriteMusicService\\appsettings.json",
+              "ToolTip": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\SpotifyApp\\Backend\\FavouriteService\\FavoriteMusicService\\appsettings.json",
+              "RelativeToolTip": "FavouriteService\\FavoriteMusicService\\appsettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-11T06:59:53.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\SpotifyApp\\Backend\\UserRegister\\UserRegister\\appsettings.json",
+              "RelativeDocumentMoniker": "UserRegister\\UserRegister\\appsettings.json",
+              "ToolTip": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\SpotifyApp\\Backend\\UserRegister\\UserRegister\\appsettings.json",
+              "RelativeToolTip": "UserRegister\\UserRegister\\appsettings.json",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-12T17:27:24.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ConsulContext.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\SpotifyApp\\Backend\\UserRegister\\UserRegister\\ConsulContext.cs",
+              "RelativeDocumentMoniker": "UserRegister\\UserRegister\\ConsulContext.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\SpotifyApp\\Backend\\UserRegister\\UserRegister\\ConsulContext.cs",
+              "RelativeToolTip": "UserRegister\\UserRegister\\ConsulContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T17:26:40.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ConsulContext.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\SpotifyApp\\Backend\\MusicService\\MusicService\\ConsulContext.cs",
+              "RelativeDocumentMoniker": "MusicService\\MusicService\\ConsulContext.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\SpotifyApp\\Backend\\MusicService\\MusicService\\ConsulContext.cs",
+              "RelativeToolTip": "MusicService\\MusicService\\ConsulContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T17:23:45.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\SpotifyApp\\Backend\\AuthenticationService\\AuthenticationService\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthenticationService\\AuthenticationService\\appsettings.json",
+              "ToolTip": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\SpotifyApp\\Backend\\AuthenticationService\\AuthenticationService\\appsettings.json",
+              "RelativeToolTip": "AuthenticationService\\AuthenticationService\\appsettings.json",
+              "ViewState": "AQIAAA4AAAAAAAAAAABRwCAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-11T07:00:13.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\SpotifyApp\\Backend\\AlbumService\\appsettings.json",
+              "RelativeDocumentMoniker": "AlbumService\\appsettings.json",
+              "ToolTip": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\SpotifyApp\\Backend\\AlbumService\\appsettings.json",
+              "RelativeToolTip": "AlbumService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-11T06:51:26.95Z"
             }
           ]
         },

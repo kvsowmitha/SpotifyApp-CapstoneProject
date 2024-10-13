@@ -140,7 +140,7 @@ export class MusicDisplayComponent implements OnInit {
       console.log(searchTerm);
       if (searchTerm) {
         this.searchService
-          .search(searchTerm, this.originalData)
+          .searchHomeMusic(searchTerm, this.originalData)
           .subscribe((data: any) => {
             console.log(data);
             this.getDataResult = data;

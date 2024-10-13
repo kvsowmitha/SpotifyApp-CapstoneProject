@@ -1,0 +1,112 @@
+<div class="album-container">
+  <!-- Album Cover and Details -->
+  <div *ngIf="artistDetails" class="album-header">
+  <img
+          [src]="artistDetails.pictureUrl"
+          alt="Album Cover"
+          class="album-cover"
+        />
+  <div class="album-info">
+  <h4>Artist</h4>
+  <h1>{{ artistDetails.name }}</h1>
+  <div class="album-meta">
+  <span
+  ><b>{{ artistDetails.monthlyListeners }}</b></span
+  >
+            Monthly Listeners
+  </div>
+  </div>
+  </div>
+  <table class="track-list">
+  <thead>
+  <tr>
+  <th>#</th>
+  <th>Title</th>
+  <th>Duration</th>
+  <th>❤</th>
+  <th>Play</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr *ngFor="let track of tracks; let i = index">
+  <td>{{ i + 1 }}</td>
+  <td>
+  <div class="track-title">{{ track.name }}</div>
+  <div class="track-singers">{{ track.singers }}</div>
+  <!-- Display singers -->
+  </td>
+  <td>{{ track.duration }}</td>
+  <td>
+  <button
+              *ngIf="isLoggedIn" 
+              type="button" 
+              class="btn btn-dark" 
+              (click)="addToFavorite(track)">
+              Add to Favorite
+  </button>
+  <button 
+              *ngIf="!isLoggedIn" 
+              type="button" 
+              class="btn btn-dark" 
+              (click)="snackBar.open('Please log in to add songs to favorites', 'Close', { duration: 3000 })">
+              Add to Favorite
+  </button>
+  </td>
+  <td>
+  <button 
+              *ngIf="isLoggedIn" 
+              mat-icon-button 
+              (click)="playTrack(track.audioUrl, i)">
+  <mat-icon>play_arrow</mat-icon>
+  </button>
+  <button 
+              *ngIf="!isLoggedIn" 
+              mat-icon-button 
+              (click)="snackBar.open('Please log in to play songs', 'Close', { duration: 3000 })">
+  <mat-icon>play_arrow</mat-icon>
+  </button>
+  </td>
+  </tr>
+  </tbody>
+  </table>
+  <!-- Audio Element for Playback -->
+  <!-- Custom Audio Player -->
+  <div *ngIf="isPlayTrack" class="audio-player">
+  <audio
+          #audioPlayer
+          (ended)="nextTrack()"
+          (timeupdate)="updateProgress()"
+  ></audio>
+  <div class="controls">
+  <button mat-icon-button (click)=" replayTrack()">
+  <mat-icon>replay</mat-icon>
+  </button>
+  <button mat-icon-button (click)="prevTrack()">
+  <mat-icon>skip_previous</mat-icon>
+  </button>
+  <button
+            mat-icon-button
+            (click)="isPlaying ? pauseTrack() : playCurrentTrack()"
+  >
+  <mat-icon>{{ isPlaying ? "pause" : "play_arrow" }}</mat-icon>
+  </button>
+  <button mat-icon-button (click)="nextTrack()">
+  <mat-icon>skip_next</mat-icon>
+  </button>
+  <button mat-icon-button (click)="  muteTrack()">
+  <mat-icon>{{ isMuted ? "volume_off" : "volume_up" }}</mat-icon>
+  </button>
+  </div>
+  <div class="progress-bar">
+  <span>{{ formatTime(currentTime) }}</span>
+  <input
+            type="range"
+            min="0"
+            [max]="duration"
+            [(ngModel)]="currentTime"
+            (change)="seekTrack($event)"
+          />
+  <span>{{ formatTime(duration) }}</span>
+  </div>
+  </div>
+  </div>

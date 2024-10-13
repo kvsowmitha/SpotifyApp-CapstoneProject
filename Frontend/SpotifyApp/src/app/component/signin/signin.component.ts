@@ -93,40 +93,20 @@ export class SigninComponent implements AfterViewInit {
   // Handle user registration
   registerUser() {
     if (this.registerForm.invalid) {
+      //alert('Please fill out all required fields correctly.');
       this.snackBar.open('Please fill out all required fields correctly.', 'Close', { duration: 3000 });
       return;
     }
-  
+ 
     this.userRegisterService.registerUser(this.registerForm.value).subscribe(
       (response: any) => {
-        this.snackBar.open('User registered successfully', 'Close', { duration: 3000 });
-  
-        // Store individual user details in localStorage
-        const name = this.registerForm.value.name;
-        const email = this.registerForm.value.email;
-        const dob = this.registerForm.value.dateOfBirth;
-        const gender = this.registerForm.value.gender;
-  
-        // Save each detail separately in localStorage (as per your requested format)
-        localStorage.setItem('Name', name);
-        localStorage.setItem('Email', email);
-        localStorage.setItem('DateOfBirth', dob);
-        localStorage.setItem('Gender', gender);
-  
-        // Log each item for verification
-        console.log('Name:', name);
-        console.log('Email:', email);
-        console.log('Date of Birth:', dob);
-        console.log('Gender:', gender);
-  
-        // Optionally, store user object as well if needed in other parts of your app
-        const user = { name, email, dob, gender };
-        localStorage.setItem('user', JSON.stringify(user));
-  
-        this.router.navigate(['/profile']);  // Redirect to profile page after successful registration
+       // alert('User registered successfully');
+       this.snackBar.open('User registered successfully', 'Close', { duration: 3000 });
+        console.log(response);
+        this.toggleSignIn(); // Switch to sign-in form after successful registration
       },
       (error: { message: string }) => {
-        this.snackBar.open('User Already Exists', 'Close', { duration: 3000 });
+        alert('Registration failed: ' + error.message);
       }
     );
   }

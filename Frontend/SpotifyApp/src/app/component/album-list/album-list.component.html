@@ -1,0 +1,27 @@
+<div class="album-list">
+    <div class="title">
+      <h4>{{ currentUrlSegment | titlecase }}</h4>
+    </div>
+    <div class="album-row">
+      <mat-card
+        class="album-card"
+        *ngFor="let album of originalAlbum"
+        (click)="goToTracks(album.albumId, album.name)"
+      >
+        <img mat-card-image [src]="album.pictureUrl" alt="{{ album.name }}" />
+        <div class="album-info">
+          <h4>{{ album.name }}</h4>
+          <p>{{ album.musicDirector }}</p>
+        </div>
+      </mat-card>
+    </div>
+  
+    <div *ngIf="!originalAlbum || originalAlbum.length === 0">
+      <mat-card appearance="outlined">
+        <mat-card-content
+          ><h6 style="text-align: center">No track found.</h6></mat-card-content
+        >
+      </mat-card>
+    </div>
+  </div>
+  <!-- ------------------- -->

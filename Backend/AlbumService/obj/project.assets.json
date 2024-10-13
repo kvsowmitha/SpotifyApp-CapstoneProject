@@ -4955,11 +4955,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\AlbumService\\AlbumService.csproj",
+      "projectUniqueName": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\SpotifyApp\\Backend\\AlbumService\\AlbumService.csproj",
       "projectName": "AlbumService",
-      "projectPath": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\AlbumService\\AlbumService.csproj",
+      "projectPath": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\SpotifyApp\\Backend\\AlbumService\\AlbumService.csproj",
       "packagesPath": "C:\\Users\\zadmin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\AlbumService\\obj\\",
+      "outputPath": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\SpotifyApp\\Backend\\AlbumService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\zadmin\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -6,6 +6,7 @@ import { Router } from '@angular/router';
 import { FormBuilder, FormGroup,FormsModule,Validators, ReactiveFormsModule, } from '@angular/forms';
 import { CommonModule } from '@angular/common';
 import { SigninComponent } from '../signin/signin.component';
+import { MatSnackBar, MatSnackBarModule } from '@angular/material/snack-bar';
 
 @Component({
   selector: 'app-reset-password',
@@ -23,7 +24,8 @@ export class ResetPasswordComponent {
     private router: Router,
     private apiService: ApicallService,
     private dataSharingService: DataSharingService,
-    public dialog: MatDialog
+    public dialog: MatDialog,
+    private snackBar: MatSnackBar // Inject MatSnackBar service
   ) {
     this.resetForm = this.fb.group({
       email: ['', [Validators.required, Validators.email]],

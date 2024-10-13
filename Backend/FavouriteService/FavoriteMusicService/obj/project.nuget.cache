@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xS9IWynvOZo=",
+  "dgSpecHash": "YbozNYrlS0s=",
   "success": true,
-  "projectFilePath": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\FavoriteMusicService.csproj",
+  "projectFilePath": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\SpotifyApp\\Backend\\FavouriteService\\FavoriteMusicService\\FavoriteMusicService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zadmin\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\zadmin\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

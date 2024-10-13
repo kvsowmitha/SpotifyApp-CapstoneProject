@@ -1,0 +1,25 @@
+<div>
+    <div class="title">
+      <h4>{{ currentUrlSegment | titlecase }}</h4>
+    </div>
+    <div class="artist-row">
+      <mat-card
+        class="artist-card"
+        *ngFor="let artist of originalArtist"
+        (click)="goToTracks(artist.artistId, artist.name)"
+      >
+        <img mat-card-image [src]="artist.pictureUrl" alt="{{ artist.name }}" />
+        <div class="artist-info">
+          <h4>{{ artist.name }}</h4>
+          <p>Artist</p>
+        </div>
+      </mat-card>
+    </div>
+    <div *ngIf="!originalArtist || originalArtist.length === 0">
+      <mat-card appearance="outlined">
+        <mat-card-content
+          ><h6 style="text-align: center">No track found.</h6></mat-card-content
+        >
+      </mat-card>
+    </div>
+  </div>

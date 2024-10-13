@@ -4,11 +4,12 @@ import { FooterComponent } from '../footer/footer.component';
 import { SigninComponent } from '../signin/signin.component';
 import { DataSharingService } from '../../service/dataSharingService/data-sharing.service';
 import { MatDialog } from '@angular/material/dialog';
+import { CommonModule } from '@angular/common';
 
 @Component({
   selector: 'app-side-bar',
   standalone: true,
-  imports: [FooterComponent],
+  imports: [FooterComponent,CommonModule],
   templateUrl: './side-bar.component.html',
   styleUrl: './side-bar.component.css',
 })
@@ -31,10 +32,10 @@ export class SideBarComponent implements OnInit {
   }
   
   goToAlbum() {
-    this.router.navigate(['/album']);
+    this.router.navigate(['/albums']);
   }
   goToArtist() {
-    this.router.navigate(['/artist']);
+    this.router.navigate(['/artists']);
   }
 
   goToSearch() {

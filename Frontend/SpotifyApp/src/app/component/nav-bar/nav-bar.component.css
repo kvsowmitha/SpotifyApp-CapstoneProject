@@ -26,7 +26,8 @@
 }
 
 .nav-bar {
-  background: linear-gradient(to left, #1ed760 0%, #065f46 60%, #121212 100%);
+   background: linear-gradient(to left, #19572f 0%, #074b37 60%, #121212 100%); 
+  /* background-color: black; */
   padding: 20px;
   transition: background-color 15s ease;
 }

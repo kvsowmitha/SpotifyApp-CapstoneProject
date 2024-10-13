@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MCPhwgXVh6A=",
+  "dgSpecHash": "7PEBcK7WzcE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\AlbumService\\AlbumService.csproj",
+  "projectFilePath": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\SpotifyApp\\Backend\\AlbumService\\AlbumService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zadmin\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\zadmin\\.nuget\\packages\\consul\\1.7.14.4\\consul.1.7.14.4.nupkg.sha512",

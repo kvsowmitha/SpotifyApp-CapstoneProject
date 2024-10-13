@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\UserRegister\\UserRegister\\UserRegister.csproj": {}
+    "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\SpotifyApp\\Backend\\UserRegister\\UserRegister\\UserRegister.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\UserRegister\\UserRegister\\UserRegister.csproj": {
+    "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\SpotifyApp\\Backend\\UserRegister\\UserRegister\\UserRegister.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\UserRegister\\UserRegister\\UserRegister.csproj",
+        "projectUniqueName": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\SpotifyApp\\Backend\\UserRegister\\UserRegister\\UserRegister.csproj",
         "projectName": "UserRegister",
-        "projectPath": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\UserRegister\\UserRegister\\UserRegister.csproj",
+        "projectPath": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\SpotifyApp\\Backend\\UserRegister\\UserRegister\\UserRegister.csproj",
         "packagesPath": "C:\\Users\\zadmin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\UserRegister\\UserRegister\\obj\\",
+        "outputPath": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\SpotifyApp\\Backend\\UserRegister\\UserRegister\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zadmin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -81,6 +81,10 @@
             "Microsoft.IdentityModel.Tokens": {
               "target": "Package",
               "version": "[8.1.0, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.20.1, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",

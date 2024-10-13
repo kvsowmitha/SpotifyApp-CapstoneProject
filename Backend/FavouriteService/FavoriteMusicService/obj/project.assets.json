@@ -1583,11 +1583,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\FavoriteMusicService.csproj",
+      "projectUniqueName": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\SpotifyApp\\Backend\\FavouriteService\\FavoriteMusicService\\FavoriteMusicService.csproj",
       "projectName": "FavoriteMusicService",
-      "projectPath": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\FavoriteMusicService.csproj",
+      "projectPath": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\SpotifyApp\\Backend\\FavouriteService\\FavoriteMusicService\\FavoriteMusicService.csproj",
       "packagesPath": "C:\\Users\\zadmin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\obj\\",
+      "outputPath": "C:\\Users\\zadmin\\Documents\\FinalProject(CONSUL, DOCKER)\\SpotifyApp\\Backend\\FavouriteService\\FavoriteMusicService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\zadmin\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -9,7 +9,7 @@ describe('SearchService', () => {
   beforeEach(() => {
     TestBed.configureTestingModule({
       imports: [HttpClientTestingModule],
-      providers: [ApicallService] 
+      providers: [ApicallService]
     });
     service = TestBed.inject(SearchService);
   });
@@ -18,15 +18,4 @@ describe('SearchService', () => {
     expect(service).toBeTruthy();
   });
 
-  it('should return an empty array if no matches are found', () => {
-    const playlistData = [
-      { musicName: 'Song A', singerName: 'Singer A' },
-      { musicName: 'Song B', singerName: 'Singer B' },
-    ];
-
-    const searchTerm = 'Non-existent Song';
-    service.search(searchTerm, playlistData).subscribe((result) => {
-      expect(result).toEqual([]);
-    });
-  });
 });

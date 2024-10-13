@@ -142,6 +142,188 @@
       },
       "ReRoutesCaseSensitive": false
     },
+    // MusicTrack routes
+    {
+      "UseServiceDiscovery": true,
+      "DownstreamPathTemplate": "/api/Album",
+      "DownstreamScheme": "http",
+      "RouteIsCaseSensitive": false,
+      "UpstreamPathTemplate": "/music/Album",
+      "UpstreamHttpMethod": [ "GET", "POST" ],
+      "ServiceName": "MusicTrackAPI",
+      "LoadBalancerOptions": {
+        "Type": "LeastConnection"
+      },
+      "ReRoutesCaseSensitive": false
+    },
+
+    {
+      "UseServiceDiscovery": true,
+      "DownstreamPathTemplate": "/api/Album/{id}",
+      "DownstreamScheme": "http",
+      "RouteIsCaseSensitive": false,
+      "UpstreamPathTemplate": "/music/Album/{id}",
+      "UpstreamHttpMethod": [ "GET", "DELETE" ],
+      "ServiceName": "MusicTrackAPI",
+      "LoadBalancerOptions": {
+        "Type": "LeastConnection"
+      },
+      "ReRoutesCaseSensitive": false
+    },
+
+    {
+      "UseServiceDiscovery": true,
+      "DownstreamPathTemplate": "/api/Album/by-name/{name}",
+      "DownstreamScheme": "http",
+      "RouteIsCaseSensitive": false,
+      "UpstreamPathTemplate": "/music/Album/by-name/{name}",
+      "UpstreamHttpMethod": [ "GET" ],
+      "ServiceName": "MusicTrackAPI",
+      "LoadBalancerOptions": {
+        "Type": "LeastConnection"
+      },
+      "ReRoutesCaseSensitive": false
+    },
+
+    {
+      "UseServiceDiscovery": true,
+      "DownstreamPathTemplate": "/api/Artist",
+      "DownstreamScheme": "http",
+      "RouteIsCaseSensitive": false,
+      "UpstreamPathTemplate": "/music/Artist",
+      "UpstreamHttpMethod": [ "GET", "POST" ],
+      "ServiceName": "MusicTrackAPI",
+      "LoadBalancerOptions": {
+        "Type": "LeastConnection"
+      },
+      "ReRoutesCaseSensitive": false
+    },
+
+    {
+      "UseServiceDiscovery": true,
+      "DownstreamPathTemplate": "/api/Artist/{id}",
+      "DownstreamScheme": "http",
+      "RouteIsCaseSensitive": false,
+      "UpstreamPathTemplate": "/music/Artist/{id}",
+      "UpstreamHttpMethod": [ "GET" ],
+      "ServiceName": "MusicTrackAPI",
+      "LoadBalancerOptions": {
+        "Type": "LeastConnection"
+      },
+      "ReRoutesCaseSensitive": false
+    },
+
+    {
+      "UseServiceDiscovery": true,
+      "DownstreamPathTemplate": "/api/Artist/by-name/{name}",
+      "DownstreamScheme": "http",
+      "RouteIsCaseSensitive": false,
+      "UpstreamPathTemplate": "/music/Artist/by-name/{name}",
+      "UpstreamHttpMethod": [ "GET" ],
+      "ServiceName": "MusicTrackAPI",
+      "LoadBalancerOptions": {
+        "Type": "LeastConnection"
+      },
+      "ReRoutesCaseSensitive": false
+    },
+
+    {
+      "UseServiceDiscovery": true,
+      "DownstreamPathTemplate": "/api/Category",
+      "DownstreamScheme": "http",
+      "RouteIsCaseSensitive": false,
+      "UpstreamPathTemplate": "/music/Category",
+      "UpstreamHttpMethod": [ "GET", "POST" ],
+      "ServiceName": "MusicTrackAPI",
+      "LoadBalancerOptions": {
+        "Type": "LeastConnection"
+      },
+      "ReRoutesCaseSensitive": false
+    },
+
+    {
+      "UseServiceDiscovery": true,
+      "DownstreamPathTemplate": "/api/Song/by-artist/{artistName}",
+      "DownstreamScheme": "http",
+      "RouteIsCaseSensitive": false,
+      "UpstreamPathTemplate": "/Song/by-artist/{artistName}",
+      "UpstreamHttpMethod": [ "GET" ],
+      "ServiceName": "MusicTrackAPI",
+      "LoadBalancerOptions": {
+        "Type": "LeastConnection"
+      },
+      "ReRoutesCaseSensitive": false
+    },
+
+    {
+      "UseServiceDiscovery": true,
+      "DownstreamPathTemplate": "/api/Song/by-album/{albumName}",
+      "DownstreamScheme": "http",
+      "RouteIsCaseSensitive": false,
+      "UpstreamPathTemplate": "/Song/by-album/{albumName}",
+      "UpstreamHttpMethod": [ "GET" ],
+      "ServiceName": "MusicTrackAPI",
+      "LoadBalancerOptions": {
+        "Type": "LeastConnection"
+      },
+      "ReRoutesCaseSensitive": false
+    },
+
+    {
+      "UseServiceDiscovery": true,
+      "DownstreamPathTemplate": "/api/Song/by-category/{categoryName}",
+      "DownstreamScheme": "http",
+      "RouteIsCaseSensitive": false,
+      "UpstreamPathTemplate": "/Song/by-category/{categoryName}",
+      "UpstreamHttpMethod": [ "GET" ],
+      "ServiceName": "MusicTrackAPI",
+      "LoadBalancerOptions": {
+        "Type": "LeastConnection"
+      },
+      "ReRoutesCaseSensitive": false
+    },
+
+    {
+      "UseServiceDiscovery": true,
+      "DownstreamPathTemplate": "/api/Song/by-language/{languageName}",
+      "DownstreamScheme": "http",
+      "RouteIsCaseSensitive": false,
+      "UpstreamPathTemplate": "/Song/by-language/{languageName}",
+      "UpstreamHttpMethod": [ "GET" ],
+      "ServiceName": "MusicTrackAPI",
+      "LoadBalancerOptions": {
+        "Type": "LeastConnection"
+      },
+      "ReRoutesCaseSensitive": false
+    },
+
+    {
+      "UseServiceDiscovery": true,
+      "DownstreamPathTemplate": "/api/Song",
+      "DownstreamScheme": "http",
+      "RouteIsCaseSensitive": false,
+      "UpstreamPathTemplate": "/Song",
+      "UpstreamHttpMethod": [ "GET", "POST" ],
+      "ServiceName": "MusicTrackAPI",
+      "LoadBalancerOptions": {
+        "Type": "LeastConnection"
+      },
+      "ReRoutesCaseSensitive": false
+    },
+
+    {
+      "UseServiceDiscovery": true,
+      "DownstreamPathTemplate": "/api/Song/{songId}",
+      "DownstreamScheme": "http",
+      "RouteIsCaseSensitive": false,
+      "UpstreamPathTemplate": "/Song/{songId}",
+      "UpstreamHttpMethod": [ "GET"],
+      "ServiceName": "MusicTrackAPI",
+      "LoadBalancerOptions": {
+        "Type": "LeastConnection"
+      },
+      "ReRoutesCaseSensitive": false
+    },
 
     // Favorites routes
     {

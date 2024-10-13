@@ -3,7 +3,7 @@ import { Router } from '@angular/router';
 import { ApicallService } from '../../service/apiCall/apicall.service';
 import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
-
+import { MatSnackBar, MatSnackBarModule } from '@angular/material/snack-bar';
 @Component({
   selector: 'app-forget-password',
   standalone: true,
@@ -15,7 +15,7 @@ export class ForgetPasswordComponent {
   email: string = '';
   message: string = '';
 
-  constructor(private router: Router, private apiService: ApicallService) {}
+  constructor(private router: Router, private apiService: ApicallService, private snackBar: MatSnackBar) {}
 
   onSubmit() {
     const userEmail = {
@@ -29,11 +29,13 @@ export class ForgetPasswordComponent {
         },
         (error) => {
           console.log(error);
-          alert('OTP send function is not working');
+          //alert('OTP send function is not working');
+          this.snackBar.open('OTP send function is not working', 'Close', { duration: 3000 });
         }
       );
     }
-    alert(`OTP sent to: ${this.email}`);
+    //alert(`OTP sent to: ${this.email}`);
+    this.snackBar.open(`OTP sent to: ${this.email}`, 'Close', { duration: 3000 });
 
     this.router.navigate(['/reset-password']);
   }

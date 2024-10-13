@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FavoriteMusicService", "Fav
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiGateway", "ApiGateway\ApiGateway\ApiGateway.csproj", "{DA77C28E-492A-4438-BB66-6F74C9CEC786}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MusicService", "MusicService\MusicService\MusicService.csproj", "{CF2129D7-1ABD-479B-9A11-986574D8C551}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{DA77C28E-492A-4438-BB66-6F74C9CEC786}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA77C28E-492A-4438-BB66-6F74C9CEC786}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA77C28E-492A-4438-BB66-6F74C9CEC786}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF2129D7-1ABD-479B-9A11-986574D8C551}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF2129D7-1ABD-479B-9A11-986574D8C551}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF2129D7-1ABD-479B-9A11-986574D8C551}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF2129D7-1ABD-479B-9A11-986574D8C551}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

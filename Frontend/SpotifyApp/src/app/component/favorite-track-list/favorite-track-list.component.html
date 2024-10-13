@@ -1,0 +1,88 @@
+<div class="album-container">
+  <!-- Track List -->
+  <table class="track-list">
+  <div *ngIf="!tracks || tracks.length === 0">
+  <mat-card appearance="outlined">
+  <mat-card-content
+  ><h6 style="text-align: center; color: black">
+                No track found.
+  </h6></mat-card-content
+  >
+  </mat-card>
+  </div>
+  <thead *ngIf="tracks && tracks.length > 0">
+  <tr>
+  <th>#</th>
+  <th>Title</th>
+  <th>💗</th>
+  <th>Play</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr *ngFor="let track of tracks; let i = index">
+  <td>{{ i + 1 }}</td>
+  <td>
+  <div class="track-title">{{ track.musicName }}</div>
+  <div class="track-singers">{{ track.singerName }}</div>
+  <!-- Display singers -->
+  </td>
+  <td>
+  <button
+                type="button"
+                class="btn btn-danger"
+                (click)="removeToFavorite(track.musicId)"
+  >
+                UnFavorite
+  </button>
+  </td>
+  <td>
+  <div>
+  <button mat-icon-button (click)="playTrack(track.songUrl, i)">
+  <mat-icon>play_arrow</mat-icon>
+  </button>
+  </div>
+  </td>
+  </tr>
+  </tbody>
+  </table>
+  <!-- Audio Element for Playback -->
+  <!-- Custom Audio Player -->
+  <div *ngIf="isPlayTrack" class="audio-player">
+  <audio
+          #audioPlayer
+          (ended)="nextTrack()"
+          (timeupdate)="updateProgress()"
+  ></audio>
+  <div class="controls">
+  <button mat-icon-button (click)=" replayTrack()">
+  <mat-icon>replay</mat-icon>
+  </button>
+  <button mat-icon-button (click)="prevTrack()">
+  <mat-icon>skip_previous</mat-icon>
+  </button>
+  <button
+            mat-icon-button
+            (click)="isPlaying ? pauseTrack() : playCurrentTrack()"
+  >
+  <mat-icon>{{ isPlaying ? "pause" : "play_arrow" }}</mat-icon>
+  </button>
+  <button mat-icon-button (click)="nextTrack()">
+  <mat-icon>skip_next</mat-icon>
+  </button>
+  <button mat-icon-button (click)="  muteTrack()">
+  <mat-icon>{{ isMuted ? "volume_off" : "volume_up" }}</mat-icon>
+  </button>
+  </div>
+  <div class="progress-bar">
+  <span>{{ formatTime(currentTime) }}</span>
+  <input
+            type="range"
+            min="0"
+            [max]="duration"
+            [(ngModel)]="currentTime"
+            (change)="seekTrack($event)"
+          />
+  <span>{{ formatTime(duration) }}</span>
+  </div>
+  </div>
+  </div>
